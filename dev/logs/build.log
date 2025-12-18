@@ -1,0 +1,1420 @@
+[main] Building folder: /workspaces/Stellarium-stellarium/build 
+[build] Starting build
+[proc] Executing command: /usr/local/bin/cmake --build /workspaces/Stellarium-stellarium/build --config Debug --target all --
+[build] [18/1243   0% :: 0.112] Generating check-version-update
+[build] [19/1243   0% :: 0.124] Automatic UIC for target qtcompress_stel
+[build] [20/1243   0% :: 0.134] Automatic UIC for target glues_stel
+[build] [21/1243   0% :: 0.136] Generating version.cpp
+[build] [22/1243   0% :: 0.143] Running utility command for ManPages
+[build] [23/1243   0% :: 0.153] Automatic MOC and UIC for target indiclient
+[build] [24/1243   0% :: 0.194] Automatic MOC and UIC for target glm
+[build] [25/1243   0% :: 0.307] Automatic MOC and UIC for target version
+[build] [26/1243   0% :: 0.329] Building C object src/external/CMakeFiles/glues_stel.dir/glues_stel/source/libtess/dict.c.o
+[build] [27/1243   0% :: 0.346] Building CXX object _deps/glm-build/glm/CMakeFiles/glm.dir/glm_autogen/mocs_compilation.cpp.o
+[build] [28/1243   0% :: 0.355] Building CXX object _deps/showmysky-qt6-build/CMakeFiles/version.dir/version_autogen/mocs_compilation.cpp.o
+[build] [29/1243   0% :: 0.370] Building CXX object _deps/showmysky-qt6-build/CMakeFiles/version.dir/version.cpp.o
+[build] [30/1243   1% :: 0.434] Linking CXX static library _deps/showmysky-qt6-build/libversion.a
+[build] [31/1243   1% :: 0.464] Building C object src/external/CMakeFiles/glues_stel.dir/glues_stel/source/glues_error.c.o
+[build] [32/1243   1% :: 0.486] Building C object src/external/CMakeFiles/glues_stel.dir/glues_stel/source/libtess/memalloc.c.o
+[build] [33/1243   1% :: 0.498] Building C object src/external/CMakeFiles/glues_stel.dir/glues_stel/source/libtess/geom.c.o
+[build] [34/1243   1% :: 0.538] Automatic MOC and UIC for target QXlsx
+[build] [35/1243   1% :: 0.760] Building C object src/external/CMakeFiles/glues_stel.dir/glues_stel/source/libtess/mesh.c.o
+[build] [36/1243   1% :: 0.786] Building C object src/external/CMakeFiles/glues_stel.dir/glues_stel/source/libtess/priorityq.c.o
+[build] [37/1243   1% :: 0.863] Building C object src/external/CMakeFiles/glues_stel.dir/glues_stel/source/libtess/render.c.o
+[build] [38/1243   1% :: 0.925] Building C object src/external/CMakeFiles/glues_stel.dir/glues_stel/source/libtess/normal.c.o
+[build] [39/1243   1% :: 1.814] Building CXX object _deps/qxlsxqt6-build/CMakeFiles/QXlsx.dir/source/xlsxcellrange.cpp.o
+[build] [40/1243   1% :: 1.828] Building CXX object _deps/glm-build/glm/CMakeFiles/glm.dir/detail/glm.cpp.o
+[build] [41/1243   1% :: 1.888] Building CXX object _deps/qxlsxqt6-build/CMakeFiles/QXlsx.dir/QXlsx_autogen/mocs_compilation.cpp.o
+[build] [42/1243   2% :: 1.976] Building CXX object _deps/qxlsxqt6-build/CMakeFiles/QXlsx.dir/source/xlsxcontenttypes.cpp.o
+[build] [43/1243   2% :: 2.175] Building CXX object _deps/qxlsxqt6-build/CMakeFiles/QXlsx.dir/source/xlsxrichstring.cpp.o
+[build] [44/1243   2% :: 2.309] Building CXX object _deps/qxlsxqt6-build/CMakeFiles/QXlsx.dir/source/xlsxdrawinganchor.cpp.o
+[build] [45/1243   2% :: 2.322] Linking CXX static library _deps/glm-build/glm/libglm.a
+[build] [46/1243   2% :: 2.380] Automatic MOC and UIC for target common
+[build] [47/1243   2% :: 2.438] Building CXX object _deps/showmysky-qt6-build/CMakeFiles/common.dir/common_autogen/mocs_compilation.cpp.o
+[build] [48/1243   2% :: 2.842] Building CXX object _deps/qxlsxqt6-build/CMakeFiles/QXlsx.dir/source/xlsxabstractooxmlfile.cpp.o
+[build] [49/1243   2% :: 3.124] Building CXX object _deps/qxlsxqt6-build/CMakeFiles/QXlsx.dir/source/xlsxcellreference.cpp.o
+[build] [50/1243   2% :: 3.279] Building CXX object _deps/qxlsxqt6-build/CMakeFiles/QXlsx.dir/source/xlsxdrawing.cpp.o
+[build] [51/1243   2% :: 3.588] Automatic MOC and UIC for target ArchaeoLines-static
+[build] [52/1243   2% :: 3.639] Automatic MOC and UIC for target EquationOfTime-static
+[build] [53/1243   2% :: 3.657] Automatic MOC and UIC for target AngleMeasure-static
+[build] [54/1243   2% :: 3.767] Building CXX object _deps/qxlsxqt6-build/CMakeFiles/QXlsx.dir/source/xlsxworkbook.cpp.o
+[build] [55/1243   3% :: 3.796] Automatic MOC and UIC for target MosaicCamera-static
+[build] [56/1243   3% :: 3.869] Building CXX object src/external/CMakeFiles/qtcompress_stel.dir/qtcompress/qzip.cpp.o
+[build] [57/1243   3% :: 3.901] Building CXX object _deps/qxlsxqt6-build/CMakeFiles/QXlsx.dir/source/xlsxdatavalidation.cpp.o
+[build] [58/1243   3% :: 3.915] Automatic MOC and UIC for target NavStars-static
+[build] [59/1243   3% :: 4.090] Automatic MOC and UIC for target Observability-static
+[build] [60/1243   3% :: 4.145] Automatic MOC and UIC for target Novae-static
+[build] [61/1243   3% :: 4.233] Automatic MOC and UIC for target NebulaTextures-static
+[build] [62/1243   3% :: 4.332] Automatic MOC and UIC for target MeteorShowers-static
+[build] [63/1243   3% :: 4.400] Building CXX object _deps/showmysky-qt6-build/CMakeFiles/common.dir/common/TextureAverageComputer.cpp.o
+[build] [64/1243   3% :: 4.817] Building CXX object _deps/showmysky-qt6-build/CMakeFiles/common.dir/common/Spectrum.cpp.o
+[build] [65/1243   3% :: 4.986] Building CXX object _deps/qxlsxqt6-build/CMakeFiles/QXlsx.dir/source/xlsxabstractsheet.cpp.o
+[build] [66/1243   3% :: 5.033] Automatic MOC and UIC for target Exoplanets-static
+[build] [67/1243   4% :: 5.169] Building CXX object _deps/qxlsxqt6-build/CMakeFiles/QXlsx.dir/source/xlsxsimpleooxmlfile.cpp.o
+[build] [68/1243   4% :: 5.236] Building CXX object _deps/qxlsxqt6-build/CMakeFiles/QXlsx.dir/source/xlsxsharedstrings.cpp.o
+[build] [69/1243   4% :: 5.240] Building CXX object _deps/qxlsxqt6-build/CMakeFiles/QXlsx.dir/source/xlsxdatetype.cpp.o
+[build] [70/1243   4% :: 5.258] Building CXX object _deps/showmysky-qt6-build/CMakeFiles/common.dir/common/util.cpp.o
+[build] [71/1243   4% :: 5.506] Building CXX object _deps/qxlsxqt6-build/CMakeFiles/QXlsx.dir/source/xlsxformat.cpp.o
+[build] [72/1243   4% :: 5.592] Building CXX object _deps/qxlsxqt6-build/CMakeFiles/QXlsx.dir/source/xlsxchart.cpp.o
+[build] [73/1243   4% :: 5.759] Building CXX object _deps/qxlsxqt6-build/CMakeFiles/QXlsx.dir/source/xlsxzipreader.cpp.o
+[build] [74/1243   4% :: 5.820] Building CXX object _deps/qxlsxqt6-build/CMakeFiles/QXlsx.dir/source/xlsxcell.cpp.o
+[build] [75/1243   4% :: 5.868] Building CXX object _deps/qxlsxqt6-build/CMakeFiles/QXlsx.dir/source/xlsxmediafile.cpp.o
+[build] [76/1243   4% :: 6.099] Building CXX object _deps/qxlsxqt6-build/CMakeFiles/QXlsx.dir/source/xlsxchartsheet.cpp.o
+[build] [77/1243   4% :: 6.189] Building CXX object _deps/qxlsxqt6-build/CMakeFiles/QXlsx.dir/source/xlsxdocpropsapp.cpp.o
+[build] [78/1243   4% :: 6.350] Building CXX object _deps/showmysky-qt6-build/CMakeFiles/common.dir/common/AtmosphereParameters.cpp.o
+[build] [79/1243   4% :: 6.422] Building C object src/external/CMakeFiles/glues_stel.dir/glues_stel/source/libtess/sweep.c.o
+[build] [80/1243   5% :: 6.445] Building C object src/external/CMakeFiles/glues_stel.dir/glues_stel/source/libtess/tess.c.o
+[build] [81/1243   5% :: 6.452] Building CXX object _deps/qxlsxqt6-build/CMakeFiles/QXlsx.dir/source/xlsxworksheet.cpp.o
+[build] [82/1243   5% :: 6.497] Building CXX object src/external/CMakeFiles/indiclient.dir/indiclient_autogen/mocs_compilation.cpp.o
+[build] [83/1243   5% :: 6.541] Building CXX object _deps/qxlsxqt6-build/CMakeFiles/QXlsx.dir/source/xlsxzipwriter.cpp.o
+[build] [84/1243   5% :: 6.574] Building C object src/external/CMakeFiles/glues_stel.dir/glues_stel/source/libtess/tessmono.c.o
+[build] [85/1243   5% :: 6.601] Linking CXX static library src/external/libqtcompress_stel.a
+[build] [86/1243   5% :: 6.606] Building CXX object _deps/qxlsxqt6-build/CMakeFiles/QXlsx.dir/source/xlsxcellformula.cpp.o
+[build] [87/1243   5% :: 6.643] Building CXX object _deps/qxlsxqt6-build/CMakeFiles/QXlsx.dir/source/xlsxtheme.cpp.o
+[build] [88/1243   5% :: 6.678] Linking C static library src/external/libglues_stel.a
+[build] [89/1243   5% :: 6.688] Building CXX object _deps/qxlsxqt6-build/CMakeFiles/QXlsx.dir/source/xlsxnumformatparser.cpp.o
+[build] [90/1243   5% :: 6.841] Building C object src/external/CMakeFiles/indiclient.dir/__/__/_deps/indiclient-src/libs/indicore/userio.c.o
+[build] [91/1243   5% :: 6.863] Building CXX object _deps/qxlsxqt6-build/CMakeFiles/QXlsx.dir/source/xlsxcolor.cpp.o
+[build] [92/1243   6% :: 6.905] Building C object src/external/CMakeFiles/indiclient.dir/__/__/_deps/indiclient-src/libs/indicore/base64.c.o
+[build] [93/1243   6% :: 6.950] Building C object src/external/CMakeFiles/indiclient.dir/__/__/_deps/indiclient-src/libs/indicore/indidevapi.c.o
+[build] /workspaces/Stellarium-stellarium/build/_deps/indiclient-src/libs/indicore/indidevapi.c: In function 'configRootFP':
+[build] /workspaces/Stellarium-stellarium/build/_deps/indiclient-src/libs/indicore/indidevapi.c:76:54: warning: '_config.xml' directive output may be truncated writing 11 bytes into a region of size between 0 and 2047 [-Wformat-truncation=]
+[build]    76 |             snprintf(configFileName, MAXRBUF-1, "%s%s_config.xml", configDir, device);
+[build]       |                                                      ^~~~~~~~~~~
+[build] /workspaces/Stellarium-stellarium/build/_deps/indiclient-src/libs/indicore/indidevapi.c:76:13: note: 'snprintf' output 12 or more bytes (assuming 2059) into a destination of size 2047
+[build]    76 |             snprintf(configFileName, MAXRBUF-1, "%s%s_config.xml", configDir, device);
+[build]       |             ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[build] [94/1243   6% :: 6.978] Building C object src/external/CMakeFiles/indiclient.dir/__/__/_deps/indiclient-src/libs/indicore/indiuserio.c.o
+[build] [95/1243   6% :: 7.024] Building CXX object _deps/qxlsxqt6-build/CMakeFiles/QXlsx.dir/source/xlsxcelllocation.cpp.o
+[build] [96/1243   6% :: 7.038] Building CXX object src/external/CMakeFiles/indiclient.dir/__/__/_deps/indiclient-src/libs/indicore/lilxml.cpp.o
+[build] [97/1243   6% :: 7.051] Building CXX object _deps/qxlsxqt6-build/CMakeFiles/QXlsx.dir/source/xlsxdocpropscore.cpp.o
+[build] [98/1243   6% :: 7.108] Building CXX object src/external/CMakeFiles/indiclient.dir/__/__/_deps/indiclient-src/libs/indidevice/indistandardproperty.cpp.o
+[build] [99/1243   6% :: 7.422] Building CXX object _deps/qxlsxqt6-build/CMakeFiles/QXlsx.dir/source/xlsxrelationships.cpp.o
+[build] [100/1243   6% :: 7.439] Building CXX object _deps/qxlsxqt6-build/CMakeFiles/QXlsx.dir/source/xlsxutility.cpp.o
+[build] [101/1243   6% :: 7.558] Building CXX object _deps/qxlsxqt6-build/CMakeFiles/QXlsx.dir/source/xlsxstyles.cpp.o
+[build] [102/1243   6% :: 7.689] Building C object src/external/CMakeFiles/indiclient.dir/__/__/_deps/indiclient-src/libs/indicore/indicom.c.o
+[build] [103/1243   6% :: 7.761] Building CXX object _deps/qxlsxqt6-build/CMakeFiles/QXlsx.dir/source/xlsxconditionalformatting.cpp.o
+[build] [104/1243   6% :: 8.310] Building CXX object _deps/qxlsxqt6-build/CMakeFiles/QXlsx.dir/source/xlsxdocument.cpp.o
+[build] [105/1243   7% :: 8.391] Building CXX object src/external/CMakeFiles/indiclient.dir/__/__/_deps/indiclient-src/libs/indidevice/indibase.cpp.o
+[build] [106/1243   7% :: 8.518] Building CXX object src/external/CMakeFiles/indiclient.dir/__/__/_deps/indiclient-src/libs/indidevice/property/indiproperties.cpp.o
+[build] [107/1243   7% :: 8.533] Building CXX object src/external/CMakeFiles/indiclient.dir/__/__/_deps/indiclient-src/libs/indidevice/property/indipropertyblob.cpp.o
+[build] [108/1243   7% :: 8.563] Generating qrc_AngleMeasure.cpp
+[build] [109/1243   7% :: 8.573] Generating ui_angleMeasureDialog.h
+[build] [110/1243   7% :: 8.676] Building CXX object src/external/CMakeFiles/indiclient.dir/__/__/_deps/indiclient-src/libs/indiclient/baseclient.cpp.o
+[build] [111/1243   7% :: 8.688] Building CXX object src/external/CMakeFiles/indiclient.dir/__/__/_deps/indiclient-src/libs/indidevice/property/indiproperty.cpp.o
+[build] [112/1243   7% :: 8.747] Building CXX object src/external/CMakeFiles/indiclient.dir/__/__/_deps/indiclient-src/libs/indidevice/parentdevice.cpp.o
+[build] [113/1243   7% :: 8.753] Building CXX object src/external/CMakeFiles/indiclient.dir/__/__/_deps/indiclient-src/libs/indiabstractclient/abstractbaseclient.cpp.o
+[build] [114/1243   7% :: 8.762] Generating qrc_ArchaeoLines.cpp
+[build] [115/1243   7% :: 8.769] Generating ui_archaeoLinesDialog.h
+[build] [116/1243   7% :: 8.775] Generating ui_archaeoLinesDialogLocations.h
+[build] [117/1243   8% :: 8.787] Building CXX object plugins/AngleMeasure/src/CMakeFiles/AngleMeasure-static.dir/qrc_AngleMeasure.cpp.o
+[build] [118/1243   8% :: 8.833] Building CXX object src/external/CMakeFiles/indiclient.dir/__/__/_deps/indiclient-src/libs/indidevice/property/indipropertybasic.cpp.o
+[build] [119/1243   8% :: 8.852] Building CXX object src/external/CMakeFiles/indiclient.dir/__/__/_deps/indiclient-src/libs/indidevice/property/indipropertylight.cpp.o
+[build] [120/1243   8% :: 8.876] Building CXX object src/external/CMakeFiles/indiclient.dir/__/__/_deps/indiclient-src/libs/indidevice/property/indipropertynumber.cpp.o
+[build] [121/1243   8% :: 8.904] Building CXX object plugins/ArchaeoLines/src/CMakeFiles/ArchaeoLines-static.dir/qrc_ArchaeoLines.cpp.o
+[build] [122/1243   8% :: 8.921] Building CXX object src/external/CMakeFiles/indiclient.dir/__/__/_deps/indiclient-src/libs/indidevice/watchdeviceproperty.cpp.o
+[build] [123/1243   8% :: 8.929] Generating ui_exoplanetsDialog.h
+[build] [124/1243   8% :: 8.937] Generating qrc_EquationOfTime.cpp
+[build] [125/1243   8% :: 8.943] Generating ui_equationOfTimeWindow.h
+[build] [126/1243   8% :: 8.955] Building CXX object src/external/CMakeFiles/indiclient.dir/__/__/_deps/indiclient-src/libs/indidevice/property/indipropertyview.cpp.o
+[build] [127/1243   8% :: 9.045] Building CXX object src/external/CMakeFiles/indiclient.dir/__/__/_deps/indiclient-src/libs/indidevice/basedevice.cpp.o
+[build] [128/1243   8% :: 9.084] Building CXX object src/external/CMakeFiles/indiclient.dir/__/__/_deps/indiclient-src/libs/indidevice/property/indipropertyswitch.cpp.o
+[build] [129/1243   9% :: 9.113] Automatic MOC and UIC for target Calendars-static
+[build] [130/1243   9% :: 9.156] Building CXX object src/external/CMakeFiles/indiclient.dir/__/__/_deps/indiclient-src/libs/indidevice/property/indipropertytext.cpp.o
+[build] [131/1243   9% :: 9.160] Building CXX object plugins/EquationOfTime/src/CMakeFiles/EquationOfTime-static.dir/qrc_EquationOfTime.cpp.o
+[build] [132/1243   9% :: 9.162] Generating qrc_Calendars.cpp
+[build] [133/1243   9% :: 9.166] Generating ui_MSConfigDialog.h
+[build] [134/1243   9% :: 9.169] Generating ui_calendarsDialog.h
+[build] [135/1243   9% :: 9.174] Generating ui_MSSearchDialog.h
+[build] [136/1243   9% :: 9.181] Generating qrc_MeteorShower.cpp
+[build] [137/1243   9% :: 9.207] Building CXX object plugins/Calendars/src/CMakeFiles/Calendars-static.dir/qrc_Calendars.cpp.o
+[build] [138/1243   9% :: 9.631] Generating qrc_Exoplanets.cpp
+[build] [139/1243   9% :: 9.692] Building CXX object src/external/CMakeFiles/indiclient.dir/__/__/_deps/indiclient-src/libs/sockets/tcpsocket_unix.cpp.o
+[build] [140/1243   9% :: 9.755] Building CXX object src/external/CMakeFiles/indiclient.dir/__/__/_deps/indiclient-src/libs/sockets/tcpsocket.cpp.o
+[build] [141/1243   9% :: 10.875] Linking CXX static library src/external/libindiclient.a
+[build] [142/1243  10% :: 10.949] Building CXX object plugins/AngleMeasure/src/CMakeFiles/AngleMeasure-static.dir/AngleMeasure-static_autogen/mocs_compilation.cpp.o
+[build] [143/1243  10% :: 11.061] Building CXX object plugins/EquationOfTime/src/CMakeFiles/EquationOfTime-static.dir/EquationOfTime-static_autogen/mocs_compilation.cpp.o
+[build] [144/1243  10% :: 11.215] Building CXX object plugins/AngleMeasure/src/CMakeFiles/AngleMeasure-static.dir/AngleMeasure.cpp.o
+[build] [145/1243  10% :: 11.220] Building CXX object plugins/AngleMeasure/src/CMakeFiles/AngleMeasure-static.dir/gui/AngleMeasureDialog.cpp.o
+[build] [146/1243  10% :: 11.231] Building CXX object _deps/showmysky-qt6-build/CMakeFiles/common.dir/common/EclipsedDoubleScatteringPrecomputer.cpp.o
+[build] [147/1243  10% :: 11.254] Building CXX object plugins/EquationOfTime/src/CMakeFiles/EquationOfTime-static.dir/EquationOfTime.cpp.o
+[build] [148/1243  10% :: 11.285] Building CXX object plugins/ArchaeoLines/src/CMakeFiles/ArchaeoLines-static.dir/ArchaeoLines-static_autogen/mocs_compilation.cpp.o
+[build] [149/1243  10% :: 11.300] Building CXX object plugins/Exoplanets/src/CMakeFiles/Exoplanets-static.dir/qrc_Exoplanets.cpp.o
+[build] [150/1243  10% :: 11.400] Building CXX object plugins/EquationOfTime/src/CMakeFiles/EquationOfTime-static.dir/gui/EquationOfTimeWindow.cpp.o
+[build] [151/1243  10% :: 11.457] Building CXX object plugins/ArchaeoLines/src/CMakeFiles/ArchaeoLines-static.dir/gui/ArchaeoLinesDialogLocations.cpp.o
+[build] [152/1243  10% :: 11.487] Building CXX object plugins/ArchaeoLines/src/CMakeFiles/ArchaeoLines-static.dir/ArchaeoLines.cpp.o
+[build] [153/1243  10% :: 11.531] Building CXX object plugins/MeteorShowers/src/CMakeFiles/MeteorShowers-static.dir/qrc_MeteorShower.cpp.o
+[build] [154/1243  11% :: 11.549] Linking CXX static library _deps/qxlsxqt6-build/libQXlsxQt6.a
+[build] [155/1243  11% :: 11.552] Building CXX object plugins/ArchaeoLines/src/CMakeFiles/ArchaeoLines-static.dir/gui/ArchaeoLinesDialog.cpp.o
+[build] [156/1243  11% :: 11.556] Generating ui_mosaicCameraDialog.h
+[build] [157/1243  11% :: 11.562] Generating qrc_NavStars.cpp
+[build] [158/1243  11% :: 11.569] Generating ui_navStarsWindow.h
+[build] [159/1243  11% :: 11.602] Linking CXX static library plugins/AngleMeasure/src/libAngleMeasure.a
+[build] [160/1243  11% :: 11.619] Generating qrc_MosaicCamera.cpp
+[build] [161/1243  11% :: 11.707] Linking CXX static library plugins/EquationOfTime/src/libEquationOfTime.a
+[build] [162/1243  11% :: 12.068] Building CXX object plugins/MeteorShowers/src/CMakeFiles/MeteorShowers-static.dir/MeteorShowers-static_autogen/mocs_compilation.cpp.o
+[build] [163/1243  11% :: 12.136] Linking CXX static library plugins/ArchaeoLines/src/libArchaeoLines.a
+[build] [164/1243  11% :: 12.195] Building CXX object plugins/MosaicCamera/src/CMakeFiles/MosaicCamera-static.dir/qrc_MosaicCamera.cpp.o
+[build] [165/1243  11% :: 12.228] Building CXX object plugins/MeteorShowers/src/CMakeFiles/MeteorShowers-static.dir/MeteorShower.cpp.o
+[build] [166/1243  11% :: 13.076] Linking CXX static library _deps/showmysky-qt6-build/libcommon.a
+[build] [167/1243  12% :: 13.158] Automatic MOC and UIC for target ShowMySky
+[build] [168/1243  12% :: 13.219] Building CXX object _deps/showmysky-qt6-build/ShowMySky/CMakeFiles/ShowMySky.dir/ShowMySky_autogen/mocs_compilation.cpp.o
+[build] [169/1243  12% :: 13.376] Building CXX object plugins/MeteorShowers/src/CMakeFiles/MeteorShowers-static.dir/MeteorObj.cpp.o
+[build] [170/1243  12% :: 13.644] Building CXX object plugins/Exoplanets/src/CMakeFiles/Exoplanets-static.dir/Exoplanet.cpp.o
+[build] [171/1243  12% :: 13.673] Building CXX object plugins/NavStars/src/CMakeFiles/NavStars-static.dir/NavStars-static_autogen/mocs_compilation.cpp.o
+[build] [172/1243  12% :: 13.689] Building CXX object plugins/MosaicCamera/src/CMakeFiles/MosaicCamera-static.dir/MosaicCamera-static_autogen/mocs_compilation.cpp.o
+[build] [173/1243  12% :: 13.707] Generating qrc_NebulaTextures.cpp
+[build] [174/1243  12% :: 13.713] Building CXX object plugins/NavStars/src/CMakeFiles/NavStars-static.dir/qrc_NavStars.cpp.o
+[build] [175/1243  12% :: 13.723] Generating ui_nebulaTexturesDialog.h
+[build] [176/1243  12% :: 13.727] Generating qrc_Novae.cpp
+[build] [177/1243  12% :: 13.791] Building CXX object plugins/MeteorShowers/src/CMakeFiles/MeteorShowers-static.dir/gui/MSConfigDialog.cpp.o
+[build] [178/1243  12% :: 13.903] Building CXX object plugins/MeteorShowers/src/CMakeFiles/MeteorShowers-static.dir/MeteorShowers.cpp.o
+[build] [179/1243  13% :: 14.083] Building CXX object plugins/NavStars/src/CMakeFiles/NavStars-static.dir/NavStarsCalculator.cpp.o
+[build] [180/1243  13% :: 14.172] Building CXX object plugins/MeteorShowers/src/CMakeFiles/MeteorShowers-static.dir/MeteorShowersMgr.cpp.o
+[build] [181/1243  13% :: 14.190] Building CXX object plugins/NavStars/src/CMakeFiles/NavStars-static.dir/NavStars.cpp.o
+[build] [182/1243  13% :: 14.549] Building CXX object plugins/MeteorShowers/src/CMakeFiles/MeteorShowers-static.dir/gui/MSSearchDialog.cpp.o
+[build] [183/1243  13% :: 14.613] Building CXX object plugins/Exoplanets/src/CMakeFiles/Exoplanets-static.dir/Exoplanets-static_autogen/mocs_compilation.cpp.o
+[build] [184/1243  13% :: 14.659] Building CXX object plugins/NebulaTextures/src/CMakeFiles/NebulaTextures-static.dir/qrc_NebulaTextures.cpp.o
+[build] [185/1243  13% :: 14.666] Generating ui_novaeDialog.h
+[build] [186/1243  13% :: 14.744] Building CXX object plugins/MosaicCamera/src/CMakeFiles/MosaicCamera-static.dir/MosaicCamera.cpp.o
+[build] [187/1243  13% :: 15.010] Building CXX object plugins/MosaicCamera/src/CMakeFiles/MosaicCamera-static.dir/gui/MosaicCameraDialog.cpp.o
+[build] [188/1243  13% :: 15.075] Building CXX object plugins/Exoplanets/src/CMakeFiles/Exoplanets-static.dir/Exoplanets.cpp.o
+[build] [189/1243  13% :: 15.262] Building CXX object _deps/showmysky-qt6-build/ShowMySky/CMakeFiles/ShowMySky.dir/util.cpp.o
+[build] [190/1243  13% :: 15.324] Linking CXX static library plugins/MeteorShowers/src/libMeteorShowers.a
+[build] [191/1243  13% :: 15.343] Linking CXX static library plugins/MosaicCamera/src/libMosaicCamera.a
+[build] [192/1243  14% :: 15.351] Building CXX object plugins/Novae/src/CMakeFiles/Novae-static.dir/qrc_Novae.cpp.o
+[build] [193/1243  14% :: 15.352] Generating qrc_Observability.cpp
+[build] [194/1243  14% :: 15.358] Generating ui_ObservabilityDialog.h
+[build] [195/1243  14% :: 15.397] Building CXX object plugins/NavStars/src/CMakeFiles/NavStars-static.dir/gui/NavStarsWindow.cpp.o
+[build] [196/1243  14% :: 15.754] Building CXX object plugins/NebulaTextures/src/CMakeFiles/NebulaTextures-static.dir/TextureConfigManager.cpp.o
+[build] [197/1243  14% :: 15.819] Building CXX object plugins/NebulaTextures/src/CMakeFiles/NebulaTextures-static.dir/SkyCoords.cpp.o
+[build] /workspaces/Stellarium-stellarium/plugins/NebulaTextures/src/SkyCoords.cpp: In static member function 'static QPair<double, double> SkyCoords::pixelToRaDec(int, int, double, double, double, double, double, double, double, double)':
+[build] /workspaces/Stellarium-stellarium/plugins/NebulaTextures/src/SkyCoords.cpp:50:35: note: parameter passing for argument of type 'std::pair<double, double>' when C++17 is enabled changed to match C++14 in GCC 10.1
+[build]    50 |         double CD2_1, double CD2_2)
+[build]       |                                   ^
+[build] [198/1243  14% :: 15.875] Linking CXX static library plugins/NavStars/src/libNavStars.a
+[build] [199/1243  14% :: 15.905] Building CXX object plugins/Observability/src/CMakeFiles/Observability-static.dir/qrc_Observability.cpp.o
+[build] [200/1243  14% :: 15.993] Building CXX object plugins/NebulaTextures/src/CMakeFiles/NebulaTextures-static.dir/PlateSolver.cpp.o
+[build] [201/1243  14% :: 16.214] Building CXX object plugins/Exoplanets/src/CMakeFiles/Exoplanets-static.dir/gui/ExoplanetsDialog.cpp.o
+[build] [202/1243  14% :: 16.333] Building CXX object _deps/showmysky-qt6-build/ShowMySky/CMakeFiles/ShowMySky.dir/api/AtmosphereRenderer.cpp.o
+[build] [203/1243  14% :: 16.514] Building CXX object plugins/NebulaTextures/src/CMakeFiles/NebulaTextures-static.dir/NebulaTextures.cpp.o
+[build] [204/1243  15% :: 16.527] Building CXX object plugins/NebulaTextures/src/CMakeFiles/NebulaTextures-static.dir/NebulaTextures-static_autogen/mocs_compilation.cpp.o
+[build] [205/1243  15% :: 16.953] Building CXX object plugins/NebulaTextures/src/CMakeFiles/NebulaTextures-static.dir/TileManager.cpp.o
+[build] [206/1243  15% :: 17.217] Linking CXX static library plugins/Exoplanets/src/libExoplanets.a
+[build] [207/1243  15% :: 17.271] Building CXX object plugins/Novae/src/CMakeFiles/Novae-static.dir/Novae-static_autogen/mocs_compilation.cpp.o
+[build] [208/1243  15% :: 17.291] Building CXX object _deps/showmysky-qt6-build/ShowMySky/CMakeFiles/ShowMySky.dir/AtmosphereRenderer.cpp.o
+[build] [209/1243  15% :: 17.499] Building CXX object plugins/NebulaTextures/src/CMakeFiles/NebulaTextures-static.dir/gui/NebulaTexturesDialog.cpp.o
+[build] /workspaces/Stellarium-stellarium/plugins/NebulaTextures/src/gui/NebulaTexturesDialog.cpp: In member function 'void NebulaTexturesDialog::applyWcsSolution(const QString&)':
+[build] /workspaces/Stellarium-stellarium/plugins/NebulaTextures/src/gui/NebulaTexturesDialog.cpp:462:41: note: parameter passing for argument of type 'std::pair<double, double>' when C++17 is enabled changed to match C++14 in GCC 10.1
+[build]   462 |         result = SkyCoords::pixelToRaDec(X, Y, CRPIX1, CRPIX2, CRVAL1, CRVAL2, CD1_1, CD1_2, CD2_1, CD2_2);
+[build]       |                  ~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[build] [210/1243  15% :: 17.892] Building CXX object plugins/Novae/src/CMakeFiles/Novae-static.dir/Nova.cpp.o
+[build] [211/1243  15% :: 18.005] Automatic MOC and UIC for target Oculars-static
+[build] [212/1243  15% :: 18.079] Generating qrc_Oculars.cpp
+[build] [213/1243  15% :: 18.088] Generating ui_ocularDialog.h
+[build] [214/1243  15% :: 18.320] Building CXX object plugins/Novae/src/CMakeFiles/Novae-static.dir/Novae.cpp.o
+[build] [215/1243  15% :: 18.377] Linking CXX static library plugins/NebulaTextures/src/libNebulaTextures.a
+[build] [216/1243  16% :: 18.599] Building CXX object plugins/Observability/src/CMakeFiles/Observability-static.dir/Observability-static_autogen/mocs_compilation.cpp.o
+[build] [217/1243  16% :: 18.813] Automatic MOC and UIC for target PointerCoordinates-static
+[build] [218/1243  16% :: 18.925] Automatic MOC and UIC for target OnlineQueries-static
+[build] [219/1243  16% :: 19.166] Building CXX object plugins/Novae/src/CMakeFiles/Novae-static.dir/gui/NovaeDialog.cpp.o
+[build] [220/1243  16% :: 19.663] Building CXX object plugins/Observability/src/CMakeFiles/Observability-static.dir/Observability.cpp.o
+[build] /workspaces/Stellarium-stellarium/plugins/Observability/src/Observability.cpp: In member function 'void Observability::getSunMoonCoords(StelCore*, QPair<double, double>, double&, double&, double&, double&, double&, bool)':
+[build] /workspaces/Stellarium-stellarium/plugins/Observability/src/Observability.cpp:987:6: note: parameter passing for argument of type 'std::pair<double, double>' when C++17 is enabled changed to match C++14 in GCC 10.1
+[build]   987 | void Observability::getSunMoonCoords(StelCore *core, QPair<double, double> JD,
+[build]       |      ^~~~~~~~~~~~~
+[build] [221/1243  16% :: 19.776] Linking CXX static library plugins/Novae/src/libNovae.a
+[build] [222/1243  16% :: 19.912] Linking CXX shared library _deps/showmysky-qt6-build/ShowMySky/libShowMySky-Qt6.so.15.0.0
+[build] [223/1243  16% :: 19.920] Creating library symlink _deps/showmysky-qt6-build/ShowMySky/libShowMySky-Qt6.so.15 _deps/showmysky-qt6-build/ShowMySky/libShowMySky-Qt6.so
+[build] [224/1243  16% :: 19.952] Automatic MOC and UIC for target fake-show-my-sky-client
+[build] AutoGen warning: "SRC:/build/fake-show-my-sky-client.cpp" is empty.
+[build] 
+[build] [225/1243  16% :: 20.013] Building CXX object CMakeFiles/fake-show-my-sky-client.dir/fake-show-my-sky-client_autogen/mocs_compilation.cpp.o
+[build] [226/1243  16% :: 20.035] Building CXX object CMakeFiles/fake-show-my-sky-client.dir/fake-show-my-sky-client.cpp.o
+[build] [227/1243  16% :: 20.065] Linking CXX shared library libfake-show-my-sky-client.so
+[build] [228/1243  16% :: 20.323] Automatic MOC and UIC for target Pulsars-static
+[build] [229/1243  17% :: 20.551] Building CXX object plugins/Observability/src/CMakeFiles/Observability-static.dir/gui/ObservabilityDialog.cpp.o
+[build] [230/1243  17% :: 20.865] Automatic MOC and UIC for target Quasars-static
+[build] [231/1243  17% :: 20.885] Generating qrc_OnlineQueries.cpp
+[build] [232/1243  17% :: 20.893] Generating ui_onlineQueriesDialog.h
+[build] [233/1243  17% :: 20.922] Building CXX object plugins/Oculars/src/CMakeFiles/Oculars-static.dir/qrc_Oculars.cpp.o
+[build] [234/1243  17% :: 21.196] Linking CXX static library plugins/Observability/src/libObservability.a
+[build] [235/1243  17% :: 21.559] Automatic MOC and UIC for target RemoteSync-static
+[build] [236/1243  17% :: 21.853] Building CXX object plugins/Oculars/src/CMakeFiles/Oculars-static.dir/CCD.cpp.o
+[build] [237/1243  17% :: 21.886] Automatic MOC and UIC for target SkyCultureMaker-static
+[build] [238/1243  17% :: 21.906] Automatic MOC and UIC for target Satellites-static
+[build] [239/1243  17% :: 21.923] Generating qrc_PointerCoordinates.cpp
+[build] [240/1243  17% :: 21.929] Generating ui_pointerCoordinatesWindow.h
+[build] [241/1243  18% :: 21.932] Building CXX object plugins/OnlineQueries/src/CMakeFiles/OnlineQueries-static.dir/qrc_OnlineQueries.cpp.o
+[build] [242/1243  18% :: 21.946] Building CXX object plugins/Oculars/src/CMakeFiles/Oculars-static.dir/Ocular.cpp.o
+[build] [243/1243  18% :: 21.985] Building CXX object plugins/Oculars/src/CMakeFiles/Oculars-static.dir/Lens.cpp.o
+[build] [244/1243  18% :: 22.024] Building CXX object plugins/PointerCoordinates/src/CMakeFiles/PointerCoordinates-static.dir/qrc_PointerCoordinates.cpp.o
+[build] [245/1243  18% :: 22.068] Automatic MOC and UIC for target Scenery3d-static
+[build] [246/1243  18% :: 22.082] Generating ui_pulsarsDialog.h
+[build] [247/1243  18% :: 22.119] Building CXX object plugins/Oculars/src/CMakeFiles/Oculars-static.dir/Telescope.cpp.o
+[build] [248/1243  18% :: 22.129] Generating ui_quasarsDialog.h
+[build] [249/1243  18% :: 22.138] Generating ui_remoteSyncDialog.h
+[build] [250/1243  18% :: 22.145] Generating qrc_RemoteSync.cpp
+[build] [251/1243  18% :: 22.200] Generating qrc_Pulsars.cpp
+[build] [252/1243  18% :: 22.306] Generating qrc_Quasars.cpp
+[build] [253/1243  18% :: 22.394] Automatic MOC and UIC for target RemoteControl-static
+[build] [254/1243  19% :: 22.447] Building CXX object plugins/Oculars/src/CMakeFiles/Oculars-static.dir/gui/PropertyBasedTableModel.cpp.o
+[build] [255/1243  19% :: 23.069] Building CXX object plugins/OnlineQueries/src/CMakeFiles/OnlineQueries-static.dir/HipOnlineQuery.cpp.o
+[build] [256/1243  19% :: 23.168] Building CXX object plugins/Pulsars/src/CMakeFiles/Pulsars-static.dir/qrc_Pulsars.cpp.o
+[build] [257/1243  19% :: 23.353] Building CXX object plugins/Oculars/src/CMakeFiles/Oculars-static.dir/Oculars-static_autogen/mocs_compilation.cpp.o
+[build] [258/1243  19% :: 23.570] Building CXX object plugins/OnlineQueries/src/CMakeFiles/OnlineQueries-static.dir/gui/StelWebEngineView.cpp.o
+[build] [259/1243  19% :: 23.746] Building CXX object plugins/OnlineQueries/src/CMakeFiles/OnlineQueries-static.dir/OnlineQueries-static_autogen/mocs_compilation.cpp.o
+[build] [260/1243  19% :: 23.928] Building CXX object plugins/Oculars/src/CMakeFiles/Oculars-static.dir/gui/OcularsGuiPanel.cpp.o
+[build] [261/1243  19% :: 24.040] Building CXX object plugins/Quasars/src/CMakeFiles/Quasars-static.dir/qrc_Quasars.cpp.o
+[build] [262/1243  19% :: 24.048] Generating qrc_RemoteControl.cpp
+[build] [263/1243  19% :: 24.057] Generating ui_remoteControlDialog.h
+[build] [264/1243  19% :: 24.124] Building CXX object plugins/Oculars/src/CMakeFiles/Oculars-static.dir/gui/OcularDialog.cpp.o
+[build] [265/1243  19% :: 24.218] Building CXX object plugins/OnlineQueries/src/CMakeFiles/OnlineQueries-static.dir/OnlineQueries.cpp.o
+[build] [266/1243  20% :: 24.265] Building CXX object plugins/OnlineQueries/src/CMakeFiles/OnlineQueries-static.dir/gui/OnlineQueriesDialog.cpp.o
+[build] [267/1243  20% :: 24.559] Building CXX object plugins/PointerCoordinates/src/CMakeFiles/PointerCoordinates-static.dir/PointerCoordinates-static_autogen/mocs_compilation.cpp.o
+[build] [268/1243  20% :: 24.600] Building CXX object plugins/PointerCoordinates/src/CMakeFiles/PointerCoordinates-static.dir/gui/PointerCoordinatesWindow.cpp.o
+[build] [269/1243  20% :: 24.679] Building CXX object plugins/Oculars/src/CMakeFiles/Oculars-static.dir/Oculars.cpp.o
+[build] [270/1243  20% :: 24.701] Linking CXX static library plugins/OnlineQueries/src/libOnlineQueries.a
+[build] [271/1243  20% :: 24.778] Building CXX object plugins/PointerCoordinates/src/CMakeFiles/PointerCoordinates-static.dir/PointerCoordinates.cpp.o
+[build] [272/1243  20% :: 24.922] Building CXX object plugins/RemoteSync/src/CMakeFiles/RemoteSync-static.dir/RemoteSync-static_autogen/mocs_compilation.cpp.o
+[build] [273/1243  20% :: 24.996] Building CXX object plugins/Pulsars/src/CMakeFiles/Pulsars-static.dir/Pulsars-static_autogen/mocs_compilation.cpp.o
+[build] [274/1243  20% :: 25.063] Linking CXX static library plugins/PointerCoordinates/src/libPointerCoordinates.a
+[build] [275/1243  20% :: 25.085] Building CXX object plugins/Pulsars/src/CMakeFiles/Pulsars-static.dir/Pulsar.cpp.o
+[build] [276/1243  20% :: 25.796] Linking CXX static library plugins/Oculars/src/libOculars.a
+[build] [277/1243  20% :: 25.853] Building CXX object plugins/Pulsars/src/CMakeFiles/Pulsars-static.dir/gui/PulsarsDialog.cpp.o
+[build] [278/1243  20% :: 25.888] Building CXX object plugins/Pulsars/src/CMakeFiles/Pulsars-static.dir/Pulsars.cpp.o
+[build] [279/1243  21% :: 25.916] Building CXX object plugins/Quasars/src/CMakeFiles/Quasars-static.dir/Quasars-static_autogen/mocs_compilation.cpp.o
+[build] [280/1243  21% :: 25.980] Building CXX object plugins/RemoteControl/src/CMakeFiles/RemoteControl-static.dir/AbstractAPIService.cpp.o
+[build] [281/1243  21% :: 26.136] Building CXX object plugins/Quasars/src/CMakeFiles/Quasars-static.dir/Quasar.cpp.o
+[build] [282/1243  21% :: 26.511] Linking CXX static library plugins/Pulsars/src/libPulsars.a
+[build] [283/1243  21% :: 26.538] Building CXX object plugins/RemoteControl/src/CMakeFiles/RemoteControl-static.dir/qrc_RemoteControl.cpp.o
+[build] [284/1243  21% :: 26.720] Building CXX object plugins/Quasars/src/CMakeFiles/Quasars-static.dir/gui/QuasarsDialog.cpp.o
+[build] [285/1243  21% :: 26.826] Building CXX object plugins/Quasars/src/CMakeFiles/Quasars-static.dir/Quasars.cpp.o
+[build] [286/1243  21% :: 26.887] Building CXX object plugins/RemoteControl/src/CMakeFiles/RemoteControl-static.dir/APIController.cpp.o
+[build] [287/1243  21% :: 27.048] Building CXX object plugins/Calendars/src/CMakeFiles/Calendars-static.dir/cmake_pch.hxx.gch
+[build] [288/1243  21% :: 27.382] Linking CXX static library plugins/Quasars/src/libQuasars.a
+[build] [289/1243  21% :: 27.625] Building CXX object plugins/RemoteControl/src/CMakeFiles/RemoteControl-static.dir/LocationSearchService.cpp.o
+[build] [290/1243  21% :: 27.747] Building CXX object plugins/RemoteControl/src/CMakeFiles/RemoteControl-static.dir/ObjectService.cpp.o
+[build] [291/1243  22% :: 27.773] Building CXX object plugins/RemoteControl/src/CMakeFiles/RemoteControl-static.dir/LocationService.cpp.o
+[build] [292/1243  22% :: 27.858] Building CXX object plugins/RemoteControl/src/CMakeFiles/RemoteControl-static.dir/MainService.cpp.o
+[build] [293/1243  22% :: 28.008] Building CXX object plugins/RemoteControl/src/CMakeFiles/RemoteControl-static.dir/RemoteControl-static_autogen/mocs_compilation.cpp.o
+[build] [294/1243  22% :: 28.070] Building CXX object plugins/RemoteControl/src/CMakeFiles/RemoteControl-static.dir/RequestHandler.cpp.o
+[build] [295/1243  22% :: 28.172] Building CXX object plugins/RemoteControl/src/CMakeFiles/RemoteControl-static.dir/ScriptService.cpp.o
+[build] [296/1243  22% :: 28.389] Building CXX object plugins/RemoteControl/src/CMakeFiles/RemoteControl-static.dir/qtwebapp/httpserver/httpcookie.cpp.o
+[build] [297/1243  22% :: 28.526] Building CXX object plugins/RemoteControl/src/CMakeFiles/RemoteControl-static.dir/StelActionService.cpp.o
+[build] [298/1243  22% :: 28.534] Building CXX object plugins/RemoteControl/src/CMakeFiles/RemoteControl-static.dir/StelPropertyService.cpp.o
+[build] /workspaces/Stellarium-stellarium/plugins/RemoteControl/src/StelPropertyService.cpp: In member function 'virtual void StelPropertyService::get(const QByteArray&, const APIParameters&, APIServiceResponse&)':
+[build] /workspaces/Stellarium-stellarium/plugins/RemoteControl/src/StelPropertyService.cpp:53:82: warning: 'QVariant::Type QMetaProperty::type() const' is deprecated [-Wdeprecated-declarations]
+[build]    53 |                         item.insert("typeEnum", static_cast<qint64>(metaProp.type()));
+[build]       |                                                                     ~~~~~~~~~~~~~^~
+[build] In file included from /usr/include/aarch64-linux-gnu/qt6/QtCore/QMetaProperty:1,
+[build]                  from /workspaces/Stellarium-stellarium/src/core/StelPropertyMgr.hpp:24,
+[build]                  from /workspaces/Stellarium-stellarium/plugins/RemoteControl/src/StelPropertyService.hpp:24,
+[build]                  from /workspaces/Stellarium-stellarium/plugins/RemoteControl/src/StelPropertyService.cpp:20:
+[build] /usr/include/aarch64-linux-gnu/qt6/QtCore/qmetaobject.h:251:20: note: declared here
+[build]   251 |     QVariant::Type type() const
+[build]       |                    ^~~~
+[build] [299/1243  22% :: 28.893] Building CXX object plugins/RemoteControl/src/CMakeFiles/RemoteControl-static.dir/qtwebapp/httpserver/httpconnectionhandler.cpp.o
+[build] [300/1243  22% :: 29.031] Building CXX object plugins/RemoteControl/src/CMakeFiles/RemoteControl-static.dir/SimbadService.cpp.o
+[build] [301/1243  22% :: 29.184] Building CXX object plugins/RemoteControl/src/CMakeFiles/RemoteControl-static.dir/ViewService.cpp.o
+[build] [302/1243  22% :: 29.210] Building CXX object plugins/RemoteControl/src/CMakeFiles/RemoteControl-static.dir/qtwebapp/httpserver/httpconnectionhandlerpool.cpp.o
+[build] [303/1243  23% :: 29.279] Building CXX object plugins/RemoteControl/src/CMakeFiles/RemoteControl-static.dir/RemoteControl.cpp.o
+[build] [304/1243  23% :: 29.349] Building CXX object plugins/Calendars/src/CMakeFiles/Calendars-static.dir/ArmenianCalendar.cpp.o
+[build] [305/1243  23% :: 29.364] Building CXX object plugins/Calendars/src/CMakeFiles/Calendars-static.dir/EgyptianCalendar.cpp.o
+[build] [306/1243  23% :: 29.421] Building CXX object plugins/Calendars/src/CMakeFiles/Calendars-static.dir/JulianCalendar.cpp.o
+[build] [307/1243  23% :: 29.500] Building CXX object plugins/Calendars/src/CMakeFiles/Calendars-static.dir/ZoroastrianCalendar.cpp.o
+[build] [308/1243  23% :: 29.520] Building CXX object plugins/Calendars/src/CMakeFiles/Calendars-static.dir/Calendar.cpp.o
+[build] [309/1243  23% :: 29.579] Building CXX object plugins/Calendars/src/CMakeFiles/Calendars-static.dir/OlympicCalendar.cpp.o
+[build] [310/1243  23% :: 29.711] Building CXX object plugins/Calendars/src/CMakeFiles/Calendars-static.dir/RevisedJulianCalendar.cpp.o
+[build] [311/1243  23% :: 29.749] Building CXX object plugins/RemoteControl/src/CMakeFiles/RemoteControl-static.dir/gui/RemoteControlDialog.cpp.o
+[build] [312/1243  23% :: 29.961] Building CXX object plugins/Calendars/src/CMakeFiles/Calendars-static.dir/RomanCalendar.cpp.o
+[build] [313/1243  23% :: 30.882] Building CXX object plugins/Calendars/src/CMakeFiles/Calendars-static.dir/ISOCalendar.cpp.o
+[build] [314/1243  23% :: 30.914] Building CXX object plugins/Calendars/src/CMakeFiles/Calendars-static.dir/GregorianCalendar.cpp.o
+[build] [315/1243  23% :: 30.923] Building CXX object plugins/Calendars/src/CMakeFiles/Calendars-static.dir/EthiopicCalendar.cpp.o
+[build] [316/1243  24% :: 30.939] Building CXX object plugins/Calendars/src/CMakeFiles/Calendars-static.dir/CopticCalendar.cpp.o
+[build] [317/1243  24% :: 30.949] Building CXX object plugins/Calendars/src/CMakeFiles/Calendars-static.dir/IslamicCalendar.cpp.o
+[build] [318/1243  24% :: 31.028] Building CXX object plugins/Calendars/src/CMakeFiles/Calendars-static.dir/IcelandicCalendar.cpp.o
+[build] [319/1243  24% :: 31.057] Building CXX object plugins/Calendars/src/CMakeFiles/Calendars-static.dir/gui/CalendarsInfoPanel.cpp.o
+[build] [320/1243  24% :: 31.061] Building CXX object plugins/Calendars/src/CMakeFiles/Calendars-static.dir/HebrewCalendar.cpp.o
+[build] [321/1243  24% :: 31.089] Building CXX object plugins/Calendars/src/CMakeFiles/Calendars-static.dir/OldHinduSolarCalendar.cpp.o
+[build] [322/1243  24% :: 31.139] Building CXX object plugins/Calendars/src/CMakeFiles/Calendars-static.dir/NewHinduLunarCalendar.cpp.o
+[build] [323/1243  24% :: 31.229] Building CXX object plugins/Calendars/src/CMakeFiles/Calendars-static.dir/OldHinduLuniSolarCalendar.cpp.o
+[build] [324/1243  24% :: 31.316] Building CXX object plugins/Calendars/src/CMakeFiles/Calendars-static.dir/NewHinduCalendar.cpp.o
+[build] [325/1243  24% :: 31.604] Building CXX object plugins/Calendars/src/CMakeFiles/Calendars-static.dir/AstroHinduLunarCalendar.cpp.o
+[build] [326/1243  24% :: 31.763] Building CXX object plugins/Calendars/src/CMakeFiles/Calendars-static.dir/gui/CalendarsDialog.cpp.o
+[build] [327/1243  24% :: 31.811] Building CXX object plugins/Calendars/src/CMakeFiles/Calendars-static.dir/AstroHinduSolarCalendar.cpp.o
+[build] [328/1243  25% :: 31.942] Building CXX object plugins/Calendars/src/CMakeFiles/Calendars-static.dir/Calendars.cpp.o
+[build] [329/1243  25% :: 32.319] Building CXX object plugins/Calendars/src/CMakeFiles/Calendars-static.dir/MayaLongCountCalendar.cpp.o
+[build] [330/1243  25% :: 32.575] Building CXX object plugins/Calendars/src/CMakeFiles/Calendars-static.dir/MayaTzolkinCalendar.cpp.o
+[build] [331/1243  25% :: 32.584] Building CXX object plugins/Calendars/src/CMakeFiles/Calendars-static.dir/MayaHaabCalendar.cpp.o
+[build] [332/1243  25% :: 32.608] Building CXX object plugins/Calendars/src/CMakeFiles/Calendars-static.dir/AztecXihuitlCalendar.cpp.o
+[build] [333/1243  25% :: 32.613] Building CXX object plugins/Calendars/src/CMakeFiles/Calendars-static.dir/AztecTonalpohualliCalendar.cpp.o
+[build] [334/1243  25% :: 32.638] Building CXX object plugins/Calendars/src/CMakeFiles/Calendars-static.dir/BalinesePawukonCalendar.cpp.o
+[build] [335/1243  25% :: 32.654] Building CXX object plugins/Calendars/src/CMakeFiles/Calendars-static.dir/FrenchAstronomicalCalendar.cpp.o
+[build] [336/1243  25% :: 32.660] Building CXX object plugins/Calendars/src/CMakeFiles/Calendars-static.dir/PersianAstronomicalCalendar.cpp.o
+[build] [337/1243  25% :: 32.739] Building CXX object plugins/Calendars/src/CMakeFiles/Calendars-static.dir/FrenchArithmeticCalendar.cpp.o
+[build] [338/1243  25% :: 32.767] Building CXX object plugins/Calendars/src/CMakeFiles/Calendars-static.dir/PersianArithmeticCalendar.cpp.o
+[build] [339/1243  25% :: 32.782] Building CXX object plugins/Calendars/src/CMakeFiles/Calendars-static.dir/BahaiAstronomicalCalendar.cpp.o
+[build] [340/1243  25% :: 32.892] Building CXX object plugins/Calendars/src/CMakeFiles/Calendars-static.dir/BahaiArithmeticCalendar.cpp.o
+[build] [341/1243  26% :: 32.910] Building CXX object plugins/Calendars/src/CMakeFiles/Calendars-static.dir/Calendars-static_autogen/mocs_compilation.cpp.o
+[build] [342/1243  26% :: 32.933] Building CXX object plugins/RemoteControl/src/CMakeFiles/RemoteControl-static.dir/qtwebapp/httpserver/httpglobal.cpp.o
+[build] [343/1243  26% :: 32.971] Building CXX object plugins/Calendars/src/CMakeFiles/Calendars-static.dir/TibetanCalendar.cpp.o
+[build] [344/1243  26% :: 33.094] Building CXX object plugins/Calendars/src/CMakeFiles/Calendars-static.dir/KoreanCalendar.cpp.o
+[build] [345/1243  26% :: 33.103] Building CXX object plugins/Calendars/src/CMakeFiles/Calendars-static.dir/ChineseCalendar.cpp.o
+[build] [346/1243  26% :: 33.126] Building CXX object plugins/RemoteSync/src/CMakeFiles/RemoteSync-static.dir/qrc_RemoteSync.cpp.o
+[build] [347/1243  26% :: 33.163] Building CXX object plugins/Calendars/src/CMakeFiles/Calendars-static.dir/JapaneseCalendar.cpp.o
+[build] [348/1243  26% :: 33.187] Generating ui_satellitesDialog.h
+[build] [349/1243  26% :: 33.199] Generating ui_satellitesImportDialog.h
+[build] [350/1243  26% :: 33.211] Generating ui_satellitesFilterDialog.h
+[build] [351/1243  26% :: 33.220] Generating ui_satellitesCommDialog.h
+[build] [352/1243  26% :: 33.243] Generating qrc_Scenery3d.cpp
+[build] [353/1243  27% :: 33.249] Generating ui_scenery3dDialog.h
+[build] [354/1243  27% :: 33.255] Generating ui_storedViewDialog.h
+[build] [355/1243  27% :: 33.384] Building CXX object plugins/Calendars/src/CMakeFiles/Calendars-static.dir/VietnameseCalendar.cpp.o
+[build] [356/1243  27% :: 34.276] Building CXX object plugins/RemoteSync/src/CMakeFiles/RemoteSync-static.dir/SyncClient.cpp.o
+[build] [357/1243  27% :: 34.305] Building CXX object plugins/RemoteControl/src/CMakeFiles/RemoteControl-static.dir/qtwebapp/httpserver/httpresponse.cpp.o
+[build] [358/1243  27% :: 34.340] Building CXX object plugins/RemoteControl/src/CMakeFiles/RemoteControl-static.dir/qtwebapp/httpserver/httprequesthandler.cpp.o
+[build] [359/1243  27% :: 34.380] Building CXX object plugins/RemoteControl/src/CMakeFiles/RemoteControl-static.dir/qtwebapp/templateengine/template.cpp.o
+[build] [360/1243  27% :: 34.472] Building CXX object plugins/RemoteControl/src/CMakeFiles/RemoteControl-static.dir/qtwebapp/httpserver/staticfilecontroller.cpp.o
+[build] [361/1243  27% :: 34.515] Building CXX object plugins/RemoteControl/src/CMakeFiles/RemoteControl-static.dir/qtwebapp/httpserver/httplistener.cpp.o
+[build] [362/1243  27% :: 34.529] Building CXX object plugins/RemoteSync/src/CMakeFiles/RemoteSync-static.dir/SyncMessages.cpp.o
+[build] [363/1243  27% :: 34.666] Building CXX object plugins/RemoteSync/src/CMakeFiles/RemoteSync-static.dir/SyncProtocol.cpp.o
+[build] [364/1243  27% :: 34.684] Building CXX object plugins/RemoteControl/src/CMakeFiles/RemoteControl-static.dir/qtwebapp/httpserver/httprequest.cpp.o
+[build] [365/1243  27% :: 34.813] Building CXX object plugins/RemoteSync/src/CMakeFiles/RemoteSync-static.dir/SyncServer.cpp.o
+[build] [366/1243  28% :: 34.858] Building CXX object plugins/RemoteSync/src/CMakeFiles/RemoteSync-static.dir/SyncServerHandlers.cpp.o
+[build] [367/1243  28% :: 35.472] Generating qrc_Satellites.cpp
+[build] [368/1243  28% :: 35.515] Building CXX object plugins/RemoteSync/src/CMakeFiles/RemoteSync-static.dir/RemoteSync.cpp.o
+[build] [369/1243  28% :: 35.546] Building CXX object plugins/RemoteSync/src/CMakeFiles/RemoteSync-static.dir/SyncClientHandlers.cpp.o
+[build] [370/1243  28% :: 35.793] Building CXX object plugins/RemoteSync/src/CMakeFiles/RemoteSync-static.dir/SyncServerEventSenders.cpp.o
+[build] [371/1243  28% :: 35.918] Building CXX object plugins/Scenery3d/src/CMakeFiles/Scenery3d-static.dir/Plane.cpp.o
+[build] [372/1243  28% :: 36.075] Building CXX object plugins/Scenery3d/src/CMakeFiles/Scenery3d-static.dir/SPolygon.cpp.o
+[build] [373/1243  28% :: 36.099] Building CXX object plugins/Scenery3d/src/CMakeFiles/Scenery3d-static.dir/Frustum.cpp.o
+[build] [374/1243  28% :: 36.206] Building CXX object plugins/Scenery3d/src/CMakeFiles/Scenery3d-static.dir/Polyhedron.cpp.o
+[build] [375/1243  28% :: 36.269] Building CXX object plugins/Satellites/src/CMakeFiles/Satellites-static.dir/gsatellite/gTime.cpp.o
+[build] [376/1243  28% :: 36.435] Building CXX object plugins/Satellites/src/CMakeFiles/Satellites-static.dir/gsatellite/gTimeSpan.cpp.o
+[build] [377/1243  28% :: 36.464] Building CXX object plugins/Satellites/src/CMakeFiles/Satellites-static.dir/gsatellite/sgp4io.cpp.o
+[build] [378/1243  29% :: 36.493] Building CXX object plugins/RemoteSync/src/CMakeFiles/RemoteSync-static.dir/gui/RemoteSyncDialog.cpp.o
+[build] [379/1243  29% :: 37.049] Building CXX object plugins/Scenery3d/src/CMakeFiles/Scenery3d-static.dir/S3DScene.cpp.o
+[build] [380/1243  29% :: 37.403] Linking CXX static library plugins/RemoteControl/src/libRemoteControl.a
+[build] [381/1243  29% :: 37.447] Building CXX object plugins/Satellites/src/CMakeFiles/Satellites-static.dir/gsatellite/gSatTEME.cpp.o
+[build] [382/1243  29% :: 37.502] Linking CXX static library plugins/RemoteSync/src/libRemoteSync.a
+[build] [383/1243  29% :: 37.893] Building CXX object plugins/Satellites/src/CMakeFiles/Satellites-static.dir/gsatellite/sgp4ext.cpp.o
+[build] [384/1243  29% :: 37.933] Building CXX object plugins/Scenery3d/src/CMakeFiles/Scenery3d-static.dir/Scenery3d-static_autogen/mocs_compilation.cpp.o
+[build] [385/1243  29% :: 38.026] Building CXX object plugins/Satellites/src/CMakeFiles/Satellites-static.dir/gsatellite/sgp4unit.cpp.o
+[build] [386/1243  29% :: 38.228] Building CXX object plugins/Scenery3d/src/CMakeFiles/Scenery3d-static.dir/S3DRenderer.cpp.o
+[build] [387/1243  29% :: 38.301] Building CXX object plugins/Scenery3d/src/CMakeFiles/Scenery3d-static.dir/Scenery3dRemoteControlService.cpp.o
+[build] [388/1243  29% :: 38.396] Linking CXX static library plugins/Calendars/src/libCalendars.a
+[build] [389/1243  29% :: 38.420] Building CXX object plugins/Scenery3d/src/CMakeFiles/Scenery3d-static.dir/SceneInfo.cpp.o
+[build] [390/1243  30% :: 38.432] Generating ui_scmConstellationDialog.h
+[build] [391/1243  30% :: 38.445] Generating ui_scmHideOrAbortMakerDialog.h
+[build] [392/1243  30% :: 38.457] Generating ui_scmSkyCultureDialog.h
+[build] [393/1243  30% :: 38.464] Generating ui_scmSkyCultureExportDialog.h
+[build] [394/1243  30% :: 38.471] Generating ui_scmStartDialog.h
+[build] [395/1243  30% :: 38.477] Building CXX object plugins/Scenery3d/src/CMakeFiles/Scenery3d-static.dir/qrc_Scenery3d.cpp.o
+[build] [396/1243  30% :: 38.492] Generating qrc_SkyCultureMaker.cpp
+[build] [397/1243  30% :: 38.545] Building CXX object plugins/Satellites/src/CMakeFiles/Satellites-static.dir/qrc_Satellites.cpp.o
+[build] [398/1243  30% :: 39.022] Building CXX object plugins/Satellites/src/CMakeFiles/Satellites-static.dir/gSatWrapper.cpp.o
+[build] [399/1243  30% :: 39.029] Building CXX object plugins/Satellites/src/CMakeFiles/Satellites-static.dir/Satellites-static_autogen/mocs_compilation.cpp.o
+[build] [400/1243  30% :: 39.243] Building CXX object plugins/Scenery3d/src/CMakeFiles/Scenery3d-static.dir/Scenery3d.cpp.o
+[build] [401/1243  30% :: 39.334] Building CXX object plugins/Scenery3d/src/CMakeFiles/Scenery3d-static.dir/gui/Scenery3dDialog.cpp.o
+[build] [402/1243  30% :: 39.490] Building CXX object plugins/Satellites/src/CMakeFiles/Satellites-static.dir/SatellitesListModel.cpp.o
+[build] [403/1243  31% :: 39.919] Building CXX object plugins/Satellites/src/CMakeFiles/Satellites-static.dir/Satellite.cpp.o
+[build] [404/1243  31% :: 39.973] Building CXX object plugins/Satellites/src/CMakeFiles/Satellites-static.dir/SatellitesListFilterModel.cpp.o
+[build] [405/1243  31% :: 40.103] Building CXX object plugins/Scenery3d/src/CMakeFiles/Scenery3d-static.dir/Heightmap.cpp.o
+[build] [406/1243  31% :: 40.143] Automatic MOC and UIC for target SolarSystemEditor-static
+[build] [407/1243  31% :: 40.266] Building CXX object plugins/Satellites/src/CMakeFiles/Satellites-static.dir/gui/SatellitesFilterDialog.cpp.o
+[build] [408/1243  31% :: 41.059] Building CXX object plugins/Scenery3d/src/CMakeFiles/Scenery3d-static.dir/ShaderManager.cpp.o
+[build] [409/1243  31% :: 41.695] Building CXX object plugins/SkyCultureMaker/src/CMakeFiles/SkyCultureMaker-static.dir/ScmConstellation.cpp.o
+[build] [410/1243  31% :: 41.747] Building CXX object plugins/SkyCultureMaker/src/CMakeFiles/SkyCultureMaker-static.dir/SkyCultureMaker-static_autogen/mocs_compilation.cpp.o
+[build] [411/1243  31% :: 41.755] Building CXX object plugins/SkyCultureMaker/src/CMakeFiles/SkyCultureMaker-static.dir/qrc_SkyCultureMaker.cpp.o
+[build] [412/1243  31% :: 41.761] Building CXX object plugins/Satellites/src/CMakeFiles/Satellites-static.dir/gui/SatellitesImportDialog.cpp.o
+[build] [413/1243  31% :: 41.807] Generating ui_solarSystemManagerWindow.h
+[build] [414/1243  31% :: 41.810] Generating ui_mpcImportWindow.h
+[build] [415/1243  32% :: 41.828] Generating ui_manualImportWindow.h
+[build] [416/1243  32% :: 41.978] Building CXX object plugins/Satellites/src/CMakeFiles/Satellites-static.dir/gui/SatellitesCommDialog.cpp.o
+[build] [417/1243  32% :: 42.168] Building CXX object plugins/SkyCultureMaker/src/CMakeFiles/SkyCultureMaker-static.dir/ScmDraw.cpp.o
+[build] [418/1243  32% :: 42.196] Building CXX object plugins/SkyCultureMaker/src/CMakeFiles/SkyCultureMaker-static.dir/ScmConstellationArtwork.cpp.o
+[build] [419/1243  32% :: 42.216] Automatic MOC and UIC for target TelescopeControl_common
+[build] [420/1243  32% :: 42.250] Building CXX object plugins/TelescopeControl/src/common/CMakeFiles/TelescopeControl_common.dir/TelescopeControl_common_autogen/mocs_compilation.cpp.o
+[build] [421/1243  32% :: 42.273] Generating ../../translations/stellarium/af.qm
+[build] [422/1243  32% :: 42.322] Building CXX object plugins/SkyCultureMaker/src/CMakeFiles/SkyCultureMaker-static.dir/ScmSkyCulture.cpp.o
+[build] [423/1243  32% :: 42.396] Building CXX object plugins/Satellites/src/CMakeFiles/Satellites-static.dir/gui/SatellitesDialog.cpp.o
+[build] [424/1243  32% :: 42.429] Building CXX object plugins/Scenery3d/src/CMakeFiles/Scenery3d-static.dir/gui/StoredViewDialog.cpp.o
+[build] [425/1243  32% :: 42.445] Generating qrc_SolarSystemEditor.cpp
+[build] [426/1243  32% :: 42.711] Building CXX object plugins/SkyCultureMaker/src/CMakeFiles/SkyCultureMaker-static.dir/gui/ScmConstellationImageAnchor.cpp.o
+[build] [427/1243  32% :: 42.931] Building CXX object plugins/SkyCultureMaker/src/CMakeFiles/SkyCultureMaker-static.dir/gui/ScmConstellationImage.cpp.o
+[build] [428/1243  33% :: 42.960] Building CXX object plugins/Satellites/src/CMakeFiles/Satellites-static.dir/Satellites.cpp.o
+[build] /workspaces/Stellarium-stellarium/plugins/Satellites/src/Satellites.cpp: In member function 'QPair<double, double> Satellites::getStdMagRCS(const TleData&)':
+[build] /workspaces/Stellarium-stellarium/plugins/Satellites/src/Satellites.cpp:1482:70: note: parameter passing for argument of type 'std::pair<double, double>' when C++17 is enabled changed to match C++14 in GCC 10.1
+[build]  1482 | QPair<double, double> Satellites::getStdMagRCS(const TleData& tleData)
+[build]       |                                                                      ^
+[build] [429/1243  33% :: 43.235] Building CXX object plugins/SkyCultureMaker/src/CMakeFiles/SkyCultureMaker-static.dir/SkyCultureMaker.cpp.o
+[build] [430/1243  33% :: 43.269] Building CXX object plugins/TelescopeControl/src/common/CMakeFiles/TelescopeControl_common.dir/Socket.cpp.o
+[build] [431/1243  33% :: 43.450] Building CXX object plugins/TelescopeControl/src/common/CMakeFiles/TelescopeControl_common.dir/Server.cpp.o
+[build] [432/1243  33% :: 43.591] Building CXX object plugins/SkyCultureMaker/src/CMakeFiles/SkyCultureMaker-static.dir/gui/ScmConstellationDialog.cpp.o
+[build] [433/1243  33% :: 43.858] Building CXX object plugins/TelescopeControl/src/common/CMakeFiles/TelescopeControl_common.dir/LogFile.cpp.o
+[build] [434/1243  33% :: 43.903] Building CXX object plugins/SkyCultureMaker/src/CMakeFiles/SkyCultureMaker-static.dir/gui/ScmHideOrAbortMakerDialog.cpp.o
+[build] [435/1243  33% :: 43.980] Generating ../../translations/stellarium/ar.qm
+[build] [436/1243  33% :: 44.045] Generating ../../translations/stellarium/az.qm
+[build] [437/1243  33% :: 44.113] Generating ../../translations/stellarium/be.qm
+[build] [438/1243  33% :: 44.181] Generating ../../translations/stellarium/bg.qm
+[build] [439/1243  33% :: 44.259] Generating ../../translations/stellarium/bn.qm
+[build] [440/1243  34% :: 44.326] Generating ../../translations/stellarium/br.qm
+[build] [441/1243  34% :: 44.350] Automatic MOC and UIC for target Supernovae-static
+[build] [442/1243  34% :: 44.361] Building CXX object plugins/SkyCultureMaker/src/CMakeFiles/SkyCultureMaker-static.dir/gui/ScmSkyCultureExportDialog.cpp.o
+[build] [443/1243  34% :: 44.368] Automatic MOC and UIC for target TextUserInterface-static
+[build] [444/1243  34% :: 44.379] Generating qrc_Supernovae.cpp
+[build] [445/1243  34% :: 44.382] Generating ui_supernovaeDialog.h
+[build] [446/1243  34% :: 44.390] Generating ../../translations/stellarium/bs.qm
+[build] [447/1243  34% :: 44.740] Building CXX object plugins/SkyCultureMaker/src/CMakeFiles/SkyCultureMaker-static.dir/gui/ScmSkyCultureDialog.cpp.o
+[build] [448/1243  34% :: 44.845] Automatic MOC and UIC for target LensDistortionEstimator-static
+[build] [449/1243  34% :: 44.953] Building CXX object plugins/TelescopeControl/src/common/CMakeFiles/TelescopeControl_common.dir/Connection.cpp.o
+[build] [450/1243  34% :: 44.977] Building CXX object plugins/Supernovae/src/CMakeFiles/Supernovae-static.dir/qrc_Supernovae.cpp.o
+[build] [451/1243  34% :: 44.987] Generating qrc_LensDistortionEstimator.cpp
+[build] [452/1243  34% :: 44.994] Generating ui_lensDistortionEstimatorDialog.h
+[build] [453/1243  35% :: 45.273] Linking CXX static library plugins/Scenery3d/src/libScenery3d.a
+[build] [454/1243  35% :: 45.319] Building CXX object plugins/SkyCultureMaker/src/CMakeFiles/SkyCultureMaker-static.dir/gui/ScmStartDialog.cpp.o
+[build] [455/1243  35% :: 45.584] Building CXX object plugins/TelescopeControl/src/common/CMakeFiles/TelescopeControl_common.dir/InterpolatedPosition.cpp.o
+[build] [456/1243  35% :: 45.660] Building CXX object plugins/TelescopeControl/src/common/CMakeFiles/TelescopeControl_common.dir/SerialPort.cpp.o
+[build] [457/1243  35% :: 45.704] Building CXX object plugins/LensDistortionEstimator/src/CMakeFiles/LensDistortionEstimator-static.dir/qrc_LensDistortionEstimator.cpp.o
+[build] [458/1243  35% :: 45.739] Linking CXX static library plugins/Satellites/src/libSatellites.a
+[build] [459/1243  35% :: 45.756] Building CXX object plugins/SolarSystemEditor/src/CMakeFiles/SolarSystemEditor-static.dir/SolarSystemEditor-static_autogen/mocs_compilation.cpp.o
+[build] [460/1243  35% :: 46.640] Building CXX object plugins/SolarSystemEditor/src/CMakeFiles/SolarSystemEditor-static.dir/gui/ManualImportWindow.cpp.o
+[build] [461/1243  35% :: 46.678] Building CXX object plugins/TextUserInterface/src/CMakeFiles/TextUserInterface-static.dir/DummyDialog.cpp.o
+[build] [462/1243  35% :: 46.818] Building CXX object plugins/TextUserInterface/src/CMakeFiles/TextUserInterface-static.dir/TextUserInterface-static_autogen/mocs_compilation.cpp.o
+[build] [463/1243  35% :: 46.900] Building CXX object plugins/SolarSystemEditor/src/CMakeFiles/SolarSystemEditor-static.dir/SolarSystemEditor.cpp.o
+[build] [464/1243  35% :: 46.949] Building CXX object plugins/Supernovae/src/CMakeFiles/Supernovae-static.dir/Supernovae-static_autogen/mocs_compilation.cpp.o
+[build] [465/1243  36% :: 47.040] Building CXX object plugins/SolarSystemEditor/src/CMakeFiles/SolarSystemEditor-static.dir/gui/SolarSystemManagerWindow.cpp.o
+[build] [466/1243  36% :: 47.217] Linking CXX static library plugins/SkyCultureMaker/src/libSkyCultureMaker.a
+[build] [467/1243  36% :: 47.236] Building CXX object plugins/SolarSystemEditor/src/CMakeFiles/SolarSystemEditor-static.dir/qrc_SolarSystemEditor.cpp.o
+[build] [468/1243  36% :: 47.478] Building CXX object plugins/Supernovae/src/CMakeFiles/Supernovae-static.dir/Supernova.cpp.o
+[build] [469/1243  36% :: 47.615] Building CXX object plugins/TextUserInterface/src/CMakeFiles/TextUserInterface-static.dir/TuiNode.cpp.o
+[build] [470/1243  36% :: 47.618] Building CXX object plugins/TextUserInterface/src/CMakeFiles/TextUserInterface-static.dir/TuiNodeActivate.cpp.o
+[build] [471/1243  36% :: 47.633] Building CXX object plugins/SolarSystemEditor/src/CMakeFiles/SolarSystemEditor-static.dir/gui/MpcImportWindow.cpp.o
+[build] [472/1243  36% :: 47.639] Building CXX object plugins/TextUserInterface/src/CMakeFiles/TextUserInterface-static.dir/TuiNodeEditable.cpp.o
+[build] [473/1243  36% :: 47.689] Generating ../../translations/stellarium/ca@valencia.qm
+[build] [474/1243  36% :: 47.695] Generating ../../translations/stellarium/ca.qm
+[build] [475/1243  36% :: 47.717] Generating ../../translations/stellarium/cs.qm
+[build] [476/1243  36% :: 47.763] Generating ../../translations/stellarium/da.qm
+[build] [477/1243  37% :: 47.778] Generating ../../translations/stellarium/de.qm
+[build] [478/1243  37% :: 47.785] Generating ../../translations/stellarium/el.qm
+[build] [479/1243  37% :: 47.799] Linking CXX static library plugins/TelescopeControl/src/common/libTelescopeControl_common.a
+[build] [480/1243  37% :: 47.817] Generating ../../translations/stellarium/en.qm
+[build] Removed plural forms as the target language has less forms.
+[build] If this sounds wrong, possibly the target language is not set or recognized.
+[build] [481/1243  37% :: 47.855] Generating ../../translations/stellarium/en_AU.qm
+[build] [482/1243  37% :: 47.919] Generating ../../translations/stellarium/en_CA.qm
+[build] [483/1243  37% :: 48.113] Building CXX object plugins/Supernovae/src/CMakeFiles/Supernovae-static.dir/Supernovae.cpp.o
+[build] [484/1243  37% :: 48.195] Building CXX object plugins/Supernovae/src/CMakeFiles/Supernovae-static.dir/gui/SupernovaeDialog.cpp.o
+[build] [485/1243  37% :: 48.199] Generating ../../translations/stellarium/en_GB.qm
+[build] [486/1243  37% :: 48.272] Generating ../../translations/stellarium/en_US.qm
+[build] [487/1243  37% :: 48.352] Generating ../../translations/stellarium/es.qm
+[build] [488/1243  37% :: 48.386] Building CXX object plugins/TextUserInterface/src/CMakeFiles/TextUserInterface-static.dir/TuiNodeBool.cpp.o
+[build] [489/1243  37% :: 48.429] Building CXX object plugins/TextUserInterface/src/CMakeFiles/TextUserInterface-static.dir/TuiNodeInt.cpp.o
+[build] [490/1243  38% :: 48.433] Generating ../../translations/stellarium/es_419.qm
+[build] [491/1243  38% :: 48.457] Generating ../../translations/stellarium/et.qm
+[build] [492/1243  38% :: 48.509] Generating ../../translations/stellarium/eu.qm
+[build] [493/1243  38% :: 48.511] Generating ../../translations/stellarium/fa.qm
+[build] [494/1243  38% :: 48.549] Generating ../../translations/stellarium/fi.qm
+[build] [495/1243  38% :: 48.585] Generating ../../translations/stellarium/gd.qm
+[build] [496/1243  38% :: 48.590] Generating ../../translations/stellarium/fr.qm
+[build] [497/1243  38% :: 48.601] Building CXX object plugins/TextUserInterface/src/CMakeFiles/TextUserInterface-static.dir/TuiNodeDouble.cpp.o
+[build] [498/1243  38% :: 48.635] Generating ../../translations/stellarium/gl.qm
+[build] [499/1243  38% :: 48.645] Generating ../../translations/stellarium/gu.qm
+[build] [500/1243  38% :: 48.668] Building CXX object plugins/TextUserInterface/src/CMakeFiles/TextUserInterface-static.dir/TuiNodeFloat.cpp.o
+[build] [501/1243  38% :: 48.670] Generating ../../translations/stellarium/he.qm
+[build] [502/1243  39% :: 48.694] Generating ../../translations/stellarium/hi.qm
+[build] [503/1243  39% :: 48.715] Generating ../../translations/stellarium/hr.qm
+[build] [504/1243  39% :: 48.734] Generating ../../translations/stellarium/hu.qm
+[build] [505/1243  39% :: 48.748] Generating ../../translations/stellarium/hy.qm
+[build] [506/1243  39% :: 48.785] Generating ../../translations/stellarium/is.qm
+[build] [507/1243  39% :: 48.801] Generating ../../translations/stellarium/it.qm
+[build] [508/1243  39% :: 48.826] Generating ../../translations/stellarium/ja.qm
+[build] [509/1243  39% :: 48.841] Generating ../../translations/stellarium/jv.qm
+[build] [510/1243  39% :: 48.859] Generating ../../translations/stellarium/id.qm
+[build] [511/1243  39% :: 48.867] Generating ../../translations/stellarium/ka.qm
+[build] [512/1243  39% :: 48.901] Generating ../../translations/stellarium/ko.qm
+[build] [513/1243  39% :: 48.911] Generating ../../translations/stellarium/la.qm
+[build] [514/1243  39% :: 48.921] Generating ../../translations/stellarium/lb.qm
+[build] [515/1243  40% :: 48.946] Generating ../../translations/stellarium/lv.qm
+[build] [516/1243  40% :: 48.955] Generating ../../translations/stellarium/lt.qm
+[build] [517/1243  40% :: 48.976] Generating ../../translations/stellarium/ml.qm
+[build] [518/1243  40% :: 48.988] Generating ../../translations/stellarium/mr.qm
+[build] [519/1243  40% :: 49.001] Generating ../../translations/stellarium/ms.qm
+[build] [520/1243  40% :: 49.021] Building CXX object plugins/TextUserInterface/src/CMakeFiles/TextUserInterface-static.dir/TuiNodeColor.cpp.o
+[build] [521/1243  40% :: 49.030] Linking CXX static library plugins/Supernovae/src/libSupernovae.a
+[build] [522/1243  40% :: 49.033] Generating ../../translations/stellarium/ne.qm
+[build] [523/1243  40% :: 49.041] Generating ../../translations/stellarium/nb.qm
+[build] [524/1243  40% :: 49.076] Generating ../../translations/stellarium/nn.qm
+[build] [525/1243  40% :: 49.090] Generating ../../translations/stellarium/nl.qm
+[build] [526/1243  40% :: 49.103] Generating ../../translations/stellarium/pl.qm
+[build] [527/1243  41% :: 49.126] Generating ../../translations/stellarium/ro.qm
+[build] [528/1243  41% :: 49.138] Generating ../../translations/stellarium/pt_BR.qm
+[build] [529/1243  41% :: 49.149] Generating ../../translations/stellarium/pt.qm
+[build] [530/1243  41% :: 49.153] Generating ../../translations/stellarium/ru.qm
+[build] [531/1243  41% :: 49.161] Building CXX object plugins/TextUserInterface/src/CMakeFiles/TextUserInterface-static.dir/TuiNodeEnum.cpp.o
+[build] [532/1243  41% :: 49.167] Generating ../../translations/stellarium/si.qm
+[build] [533/1243  41% :: 49.175] Linking CXX static library plugins/SolarSystemEditor/src/libSolarSystemEditor.a
+[build] [534/1243  41% :: 49.178] Generating ../../translations/stellarium/sc.qm
+[build] [535/1243  41% :: 49.209] Generating ../../translations/stellarium/sk.qm
+[build] [536/1243  41% :: 49.220] Generating ../../translations/stellarium/sl.qm
+[build] [537/1243  41% :: 49.233] Generating ../../translations/stellarium/sq.qm
+[build] [538/1243  41% :: 49.235] Generating ../../translations/stellarium/sr.qm
+[build] [539/1243  41% :: 49.259] Generating ../../translations/stellarium/sv.qm
+[build] [540/1243  42% :: 49.271] Generating ../../translations/stellarium/ta.qm
+[build] [541/1243  42% :: 49.281] Generating ../../translations/stellarium/tr.qm
+[build] [542/1243  42% :: 49.294] Generating ../../translations/stellarium/th.qm
+[build] [543/1243  42% :: 49.312] Generating ../../translations/stellarium/tt.qm
+[build] [544/1243  42% :: 49.316] Generating ../../translations/stellarium/te.qm
+[build] [545/1243  42% :: 49.323] Generating ../../translations/stellarium/uk.qm
+[build] [546/1243  42% :: 49.325] Generating ../../translations/stellarium-sky/am.qm
+[build] [547/1243  42% :: 49.327] Generating ../../translations/stellarium-sky/af.qm
+[build] [548/1243  42% :: 49.329] Generating ../../translations/stellarium/vi.qm
+[build] [549/1243  42% :: 49.331] Generating ../../translations/stellarium/zh_CN.qm
+[build] [550/1243  42% :: 49.352] Generating ../../translations/stellarium-sky/ar.qm
+[build] [551/1243  42% :: 49.354] Generating ../../translations/stellarium-sky/az.qm
+[build] [552/1243  43% :: 49.358] Generating ../../translations/stellarium-sky/arn.qm
+[build] [553/1243  43% :: 49.364] Generating ../../translations/stellarium-sky/ay.qm
+[build] [554/1243  43% :: 49.366] Generating ../../translations/stellarium-sky/be.qm
+[build] [555/1243  43% :: 49.378] Generating ../../translations/stellarium-sky/bn.qm
+[build] [556/1243  43% :: 49.383] Generating ../../translations/stellarium/zh_TW.qm
+[build] [557/1243  43% :: 49.386] Generating ../../translations/stellarium-sky/bg.qm
+[build] [558/1243  43% :: 49.388] Generating ../../translations/stellarium-sky/bs.qm
+[build] [559/1243  43% :: 49.392] Generating ../../translations/stellarium-sky/br.qm
+[build] [560/1243  43% :: 49.403] Generating ../../translations/stellarium/zh_HK.qm
+[build] [561/1243  43% :: 49.406] Generating ../../translations/stellarium-sky/ca.qm
+[build] [562/1243  43% :: 49.407] Generating ../../translations/stellarium-sky/ca@valencia.qm
+[build] [563/1243  43% :: 49.409] Generating ../../translations/stellarium-sky/cs.qm
+[build] [564/1243  44% :: 49.415] Generating ../../translations/stellarium-sky/da.qm
+[build] [565/1243  44% :: 49.417] Generating ../../translations/stellarium-sky/el.qm
+[build] [566/1243  44% :: 49.427] Generating ../../translations/stellarium-sky/de.qm
+[build] [567/1243  44% :: 49.429] Generating ../../translations/stellarium-sky/en.qm
+[build] [568/1243  44% :: 49.437] Generating ../../translations/stellarium-sky/en_GB.qm
+[build] [569/1243  44% :: 49.441] Generating ../../translations/stellarium-sky/en_AU.qm
+[build] [570/1243  44% :: 49.442] Generating ../../translations/stellarium-sky/en_US.qm
+[build] [571/1243  44% :: 49.445] Generating ../../translations/stellarium-sky/en_CA.qm
+[build] [572/1243  44% :: 49.452] Generating ../../translations/stellarium-sky/et.qm
+[build] [573/1243  44% :: 49.461] Generating ../../translations/stellarium-sky/eu.qm
+[build] [574/1243  44% :: 49.466] Generating ../../translations/stellarium-sky/fa.qm
+[build] [575/1243  44% :: 49.471] Generating ../../translations/stellarium-sky/es_419.qm
+[build] [576/1243  44% :: 49.478] Generating ../../translations/stellarium-sky/fi.qm
+[build] [577/1243  45% :: 49.480] Generating ../../translations/stellarium-sky/fr.qm
+[build] [578/1243  45% :: 49.482] Generating ../../translations/stellarium-sky/gd.qm
+[build] [579/1243  45% :: 49.488] Generating ../../translations/stellarium-sky/gl.qm
+[build] [580/1243  45% :: 49.492] Generating ../../translations/stellarium-sky/gu.qm
+[build] [581/1243  45% :: 49.496] Generating ../../translations/stellarium-sky/es.qm
+[build] [582/1243  45% :: 49.499] Generating ../../translations/stellarium-sky/fy.qm
+[build] [583/1243  45% :: 49.502] Generating ../../translations/stellarium-sky/he.qm
+[build] [584/1243  45% :: 49.527] Generating ../../translations/stellarium-sky/hy.qm
+[build] [585/1243  45% :: 49.536] Generating ../../translations/stellarium-sky/hr.qm
+[build] [586/1243  45% :: 49.541] Generating ../../translations/stellarium-sky/hu.qm
+[build] [587/1243  45% :: 49.544] Generating ../../translations/stellarium-sky/ja.qm
+[build] [588/1243  45% :: 49.547] Generating ../../translations/stellarium-sky/is.qm
+[build] [589/1243  46% :: 49.549] Generating ../../translations/stellarium-sky/it.qm
+[build] [590/1243  46% :: 49.550] Generating ../../translations/stellarium-sky/hi.qm
+[build] [591/1243  46% :: 49.556] Generating ../../translations/stellarium-sky/id.qm
+[build] [592/1243  46% :: 49.559] Generating ../../translations/stellarium-sky/jv.qm
+[build] [593/1243  46% :: 49.572] Generating ../../translations/stellarium-sky/ka.qm
+[build] [594/1243  46% :: 49.578] Generating ../../translations/stellarium-sky/lb.qm
+[build] [595/1243  46% :: 49.584] Generating ../../translations/stellarium-sky/la.qm
+[build] [596/1243  46% :: 49.588] Generating ../../translations/stellarium-sky/lv.qm
+[build] [597/1243  46% :: 49.591] Generating ../../translations/stellarium-sky/mi.qm
+[build] [598/1243  46% :: 49.593] Generating ../../translations/stellarium-sky/lt.qm
+[build] [599/1243  46% :: 49.598] Generating ../../translations/stellarium-sky/ml.qm
+[build] [600/1243  46% :: 49.604] Generating ../../translations/stellarium-sky/mr.qm
+[build] [601/1243  46% :: 49.607] Generating ../../translations/stellarium-sky/ms.qm
+[build] [602/1243  47% :: 49.608] Generating ../../translations/stellarium-sky/ko.qm
+[build] [603/1243  47% :: 49.614] Generating ../../translations/stellarium-sky/nb.qm
+[build] [604/1243  47% :: 49.619] Generating ../../translations/stellarium-sky/ne.qm
+[build] [605/1243  47% :: 49.629] Generating ../../translations/stellarium-sky/pl.qm
+[build] [606/1243  47% :: 49.633] Generating ../../translations/stellarium-sky/nn.qm
+[build] [607/1243  47% :: 49.636] Generating ../../translations/stellarium-sky/pt.qm
+[build] [608/1243  47% :: 49.642] Generating ../../translations/stellarium-sky/qu.qm
+[build] [609/1243  47% :: 49.645] Generating ../../translations/stellarium-sky/pt_BR.qm
+[build] [610/1243  47% :: 49.649] Generating ../../translations/stellarium-sky/rap.qm
+[build] [611/1243  47% :: 49.653] Generating ../../translations/stellarium-sky/ro.qm
+[build] [612/1243  47% :: 49.658] Generating ../../translations/stellarium-sky/sa.qm
+[build] [613/1243  47% :: 49.662] Generating ../../translations/stellarium-sky/ru.qm
+[build] [614/1243  48% :: 49.668] Generating ../../translations/stellarium-sky/shi.qm
+[build] [615/1243  48% :: 49.670] Generating ../../translations/stellarium-sky/sc.qm
+[build] [616/1243  48% :: 49.672] Generating ../../translations/stellarium-sky/si.qm
+[build] [617/1243  48% :: 49.683] Generating ../../translations/stellarium-sky/sl.qm
+[build] [618/1243  48% :: 49.685] Generating ../../translations/stellarium-sky/nl.qm
+[build] [619/1243  48% :: 49.686] Generating ../../translations/stellarium-sky/sk.qm
+[build] [620/1243  48% :: 49.688] Generating ../../translations/stellarium-sky/sq.qm
+[build] [621/1243  48% :: 49.703] Generating ../../translations/stellarium-sky/ta.qm
+[build] [622/1243  48% :: 49.705] Generating ../../translations/stellarium-sky/sr.qm
+[build] [623/1243  48% :: 49.708] Generating ../../translations/stellarium-sky/te.qm
+[build] [624/1243  48% :: 49.711] Generating ../../translations/stellarium-sky/sv.qm
+[build] [625/1243  48% :: 49.714] Generating ../../translations/stellarium-sky/th.qm
+[build] [626/1243  48% :: 49.717] Generating ../../translations/stellarium-sky/ti.qm
+[build] [627/1243  49% :: 49.718] Generating ../../translations/stellarium-sky/tt.qm
+[build] [628/1243  49% :: 49.722] Generating ../../translations/stellarium-sky/tr.qm
+[build] [629/1243  49% :: 49.742] Generating ../../translations/stellarium-sky/uk.qm
+[build] [630/1243  49% :: 49.746] Generating ../../translations/stellarium-sky/vi.qm
+[build] [631/1243  49% :: 49.750] Generating ../../translations/stellarium-sky/zh_TW.qm
+[build] [632/1243  49% :: 49.752] Generating ../../translations/stellarium-sky/zh_HK.qm
+[build] [633/1243  49% :: 49.767] Generating ../../translations/stellarium-skycultures/af.qm
+[build] [634/1243  49% :: 49.769] Generating ../../translations/stellarium-skycultures/az.qm
+[build] [635/1243  49% :: 49.771] Generating ../../translations/stellarium-skycultures/be.qm
+[build] [636/1243  49% :: 49.775] Generating ../../translations/stellarium-sky/zh_CN.qm
+[build] [637/1243  49% :: 49.786] Generating ../../translations/stellarium-skycultures/ar.qm
+[build] [638/1243  49% :: 49.789] Generating ../../translations/stellarium-skycultures/bg.qm
+[build] [639/1243  50% :: 49.790] Generating ../../translations/stellarium-skycultures/br.qm
+[build] [640/1243  50% :: 49.792] Generating ../../translations/stellarium-skycultures/bs.qm
+[build] [641/1243  50% :: 49.796] Generating ../../translations/stellarium-skycultures/bn.qm
+[build] [642/1243  50% :: 49.810] Generating ../../translations/stellarium-skycultures/ca.qm
+[build] [643/1243  50% :: 49.814] Generating ../../translations/stellarium-skycultures/cs.qm
+[build] [644/1243  50% :: 49.818] Generating ../../translations/stellarium-skycultures/da.qm
+[build] [645/1243  50% :: 49.833] Generating ../../translations/stellarium-skycultures/el.qm
+[build] [646/1243  50% :: 49.837] Generating ../../translations/stellarium-skycultures/en.qm
+[build] [647/1243  50% :: 49.841] Generating ../../translations/stellarium-skycultures/de.qm
+[build] [648/1243  50% :: 49.843] Generating ../../translations/stellarium-skycultures/en_AU.qm
+[build] [649/1243  50% :: 49.844] Generating ../../translations/stellarium-skycultures/en_CA.qm
+[build] [650/1243  50% :: 49.861] Building CXX object plugins/TextUserInterface/src/CMakeFiles/TextUserInterface-static.dir/TuiNodeDateTime.cpp.o
+[build] [651/1243  51% :: 49.873] Generating ../../translations/stellarium-skycultures/ca@valencia.qm
+[build] [652/1243  51% :: 49.879] Generating ../../translations/stellarium-skycultures/es.qm
+[build] [653/1243  51% :: 49.882] Generating ../../translations/stellarium-skycultures/fa.qm
+[build] [654/1243  51% :: 49.884] Generating ../../translations/stellarium-skycultures/en_GB.qm
+[build] [655/1243  51% :: 49.888] Generating ../../translations/stellarium-skycultures/en_US.qm
+[build] [656/1243  51% :: 49.892] Generating ../../translations/stellarium-skycultures/eu.qm
+[build] [657/1243  51% :: 49.898] Generating ../../translations/stellarium-skycultures/es_419.qm
+[build] [658/1243  51% :: 49.900] Generating ../../translations/stellarium-skycultures/et.qm
+[build] [659/1243  51% :: 49.902] Generating ../../translations/stellarium-skycultures/fi.qm
+[build] [660/1243  51% :: 49.921] Generating ../../translations/stellarium-skycultures/gd.qm
+[build] [661/1243  51% :: 49.925] Generating ../../translations/stellarium-skycultures/gu.qm
+[build] [662/1243  51% :: 49.934] Generating ../../translations/stellarium-skycultures/fy.qm
+[build] [663/1243  51% :: 49.942] Generating ../../translations/stellarium-skycultures/hi.qm
+[build] [664/1243  52% :: 49.948] Generating ../../translations/stellarium-skycultures/hr.qm
+[build] [665/1243  52% :: 49.950] Generating ../../translations/stellarium-skycultures/hu.qm
+[build] [666/1243  52% :: 49.955] Automatic MOC and UIC for target TelescopeControl_NexStar
+[build] [667/1243  52% :: 49.969] Generating ../../translations/stellarium-skycultures/he.qm
+[build] [668/1243  52% :: 49.970] Generating ../../translations/stellarium-skycultures/fr.qm
+[build] [669/1243  52% :: 49.972] Generating ../../translations/stellarium-skycultures/gl.qm
+[build] [670/1243  52% :: 49.974] Generating ../../translations/stellarium-skycultures/hy.qm
+[build] [671/1243  52% :: 49.976] Generating ../../translations/stellarium-skycultures/is.qm
+[build] [672/1243  52% :: 49.979] Generating ../../translations/stellarium-skycultures/it.qm
+[build] [673/1243  52% :: 49.986] Automatic MOC and UIC for target TelescopeControl_Lx200
+[build] [674/1243  52% :: 49.994] Generating ../../translations/stellarium-skycultures/ja.qm
+[build] [675/1243  52% :: 49.995] Generating ../../translations/stellarium-skycultures/jv.qm
+[build] [676/1243  53% :: 50.000] Generating ../../translations/stellarium-skycultures/ka.qm
+[build] [677/1243  53% :: 50.001] Generating ../../translations/stellarium-skycultures/id.qm
+[build] [678/1243  53% :: 50.017] Generating ../../translations/stellarium-skycultures/lb.qm
+[build] [679/1243  53% :: 50.039] Generating ../../translations/stellarium-skycultures/ko.qm
+[build] [680/1243  53% :: 50.050] Generating ../../translations/stellarium-skycultures/la.qm
+[build] [681/1243  53% :: 50.056] Generating ../../translations/stellarium-skycultures/lt.qm
+[build] [682/1243  53% :: 50.075] Generating ../../translations/stellarium-skycultures/ml.qm
+[build] [683/1243  53% :: 50.081] Generating ../../translations/stellarium-skycultures/lv.qm
+[build] [684/1243  53% :: 50.084] Generating ../../translations/stellarium-skycultures/mr.qm
+[build] [685/1243  53% :: 50.089] Generating ../../translations/stellarium-skycultures/ms.qm
+[build] [686/1243  53% :: 50.112] Generating ../../translations/stellarium-skycultures/ne.qm
+[build] [687/1243  53% :: 50.121] Generating ../../translations/stellarium-skycultures/nn.qm
+[build] [688/1243  53% :: 50.127] Generating ../../translations/stellarium-skycultures/nl.qm
+[build] [689/1243  54% :: 50.130] Generating ../../translations/stellarium-skycultures/nb.qm
+[build] [690/1243  54% :: 50.144] Generating ../../translations/stellarium-skycultures/pl.qm
+[build] [691/1243  54% :: 50.157] Generating ../../translations/stellarium-skycultures/pt.qm
+[build] [692/1243  54% :: 50.175] Building CXX object plugins/LensDistortionEstimator/src/CMakeFiles/LensDistortionEstimator-static.dir/LensDistortionEstimator-static_autogen/mocs_compilation.cpp.o
+[build] [693/1243  54% :: 50.176] Generating ../../translations/stellarium-skycultures/pt_BR.qm
+[build] [694/1243  54% :: 50.190] Generating ../../translations/stellarium-skycultures/ru.qm
+[build] [695/1243  54% :: 50.194] Generating ../../translations/stellarium-skycultures/ro.qm
+[build] [696/1243  54% :: 50.204] Generating ../../translations/stellarium-skycultures/sc.qm
+[build] [697/1243  54% :: 50.206] Automatic MOC and UIC for target TelescopeControl_Rts2
+[build] [698/1243  54% :: 50.232] Generating ../../translations/stellarium-skycultures/sq.qm
+[build] [699/1243  54% :: 50.239] Generating ../../translations/stellarium-skycultures/si.qm
+[build] [700/1243  54% :: 50.242] Generating ../../translations/stellarium-skycultures/sr.qm
+[build] [701/1243  55% :: 50.244] Generating ../../translations/stellarium-skycultures/sl.qm
+[build] [702/1243  55% :: 50.252] Generating ../../translations/stellarium-skycultures/sk.qm
+[build] [703/1243  55% :: 50.285] Generating ../../translations/stellarium-skycultures/th.qm
+[build] [704/1243  55% :: 50.287] Generating ../../translations/stellarium-skycultures/te.qm
+[build] [705/1243  55% :: 50.294] Generating ../../translations/stellarium-skycultures/sv.qm
+[build] [706/1243  55% :: 50.299] Generating ../../translations/stellarium-skycultures/ta.qm
+[build] [707/1243  55% :: 50.324] Generating ../../translations/stellarium-skycultures/tt.qm
+[build] [708/1243  55% :: 50.331] Generating ../../translations/stellarium-skycultures/vi.qm
+[build] [709/1243  55% :: 50.340] Generating ../../translations/stellarium-skycultures/uk.qm
+[build] [710/1243  55% :: 50.352] Generating ../../translations/stellarium-skycultures/tr.qm
+[build] [711/1243  55% :: 50.362] Generating ../../translations/stellarium-skycultures-descriptions/af.qm
+[build] [712/1243  55% :: 50.369] Generating ../../translations/stellarium-skycultures/zh_CN.qm
+[build] [713/1243  55% :: 50.370] Generating ../../translations/stellarium-skycultures/zh_HK.qm
+[build] [714/1243  56% :: 50.375] Generating ../../translations/stellarium-skycultures-descriptions/am.qm
+[build] [715/1243  56% :: 50.378] Generating ../../translations/stellarium-skycultures/zh_TW.qm
+[build] [716/1243  56% :: 50.384] Generating ../../translations/stellarium-skycultures-descriptions/arn.qm
+[build] [717/1243  56% :: 50.388] Generating ../../translations/stellarium-skycultures-descriptions/ay.qm
+[build] [718/1243  56% :: 50.394] Generating ../../translations/stellarium-skycultures-descriptions/ar.qm
+[build] [719/1243  56% :: 50.399] Generating ../../translations/stellarium-skycultures-descriptions/az.qm
+[build] [720/1243  56% :: 50.401] Generating ../../translations/stellarium-skycultures-descriptions/be.qm
+[build] [721/1243  56% :: 50.406] Generating ../../translations/stellarium-skycultures-descriptions/bg.qm
+[build] [722/1243  56% :: 50.411] Generating ../../translations/stellarium-skycultures-descriptions/bn.qm
+[build] [723/1243  56% :: 50.413] Generating ../../translations/stellarium-skycultures-descriptions/bs.qm
+[build] [724/1243  56% :: 50.421] Generating ../../translations/stellarium-skycultures-descriptions/br.qm
+[build] [725/1243  56% :: 50.425] Generating ../../translations/stellarium-skycultures-descriptions/ca.qm
+[build] [726/1243  57% :: 50.433] Generating ../../translations/stellarium-skycultures-descriptions/ca@valencia.qm
+[build] [727/1243  57% :: 50.438] Generating ../../translations/stellarium-skycultures-descriptions/cs.qm
+[build] [728/1243  57% :: 50.448] Generating ../../translations/stellarium-skycultures-descriptions/de.qm
+[build] [729/1243  57% :: 50.454] Generating ../../translations/stellarium-skycultures-descriptions/en.qm
+[build] [730/1243  57% :: 50.466] Generating ../../translations/stellarium-skycultures-descriptions/da.qm
+[build] [731/1243  57% :: 50.467] Generating ../../translations/stellarium-skycultures-descriptions/el.qm
+[build] [732/1243  57% :: 50.475] Generating ../../translations/stellarium-skycultures-descriptions/en_CA.qm
+[build] [733/1243  57% :: 50.482] Generating ../../translations/stellarium-skycultures-descriptions/en_AU.qm
+[build] [734/1243  57% :: 50.488] Generating ../../translations/stellarium-skycultures-descriptions/en_US.qm
+[build] [735/1243  57% :: 50.490] Generating ../../translations/stellarium-skycultures-descriptions/en_GB.qm
+[build] [736/1243  57% :: 50.498] Generating ../../translations/stellarium-skycultures-descriptions/et.qm
+[build] [737/1243  57% :: 50.501] Generating ../../translations/stellarium-skycultures-descriptions/eu.qm
+[build] [738/1243  58% :: 50.507] Generating ../../translations/stellarium-skycultures-descriptions/es.qm
+[build] [739/1243  58% :: 50.509] Generating ../../translations/stellarium-skycultures-descriptions/es_419.qm
+[build] [740/1243  58% :: 50.513] Generating ../../translations/stellarium-skycultures-descriptions/fi.qm
+[build] [741/1243  58% :: 50.521] Generating ../../translations/stellarium-skycultures-descriptions/fr.qm
+[build] [742/1243  58% :: 50.526] Generating ../../translations/stellarium-skycultures-descriptions/fa.qm
+[build] [743/1243  58% :: 50.530] Generating ../../translations/stellarium-skycultures-descriptions/fy.qm
+[build] [744/1243  58% :: 50.535] Generating ../../translations/stellarium-skycultures-descriptions/gd.qm
+[build] [745/1243  58% :: 50.538] Generating ../../translations/stellarium-skycultures-descriptions/gu.qm
+[build] [746/1243  58% :: 50.545] Generating ../../translations/stellarium-skycultures-descriptions/he.qm
+[build] [747/1243  58% :: 50.547] Generating ../../translations/stellarium-skycultures-descriptions/hi.qm
+[build] [748/1243  58% :: 50.555] Generating ../../translations/stellarium-skycultures-descriptions/gl.qm
+[build] [749/1243  58% :: 50.562] Generating ../../translations/stellarium-skycultures-descriptions/hr.qm
+[build] [750/1243  58% :: 50.566] Generating ../../translations/stellarium-skycultures-descriptions/hu.qm
+[build] [751/1243  59% :: 50.573] Generating ../../translations/stellarium-skycultures-descriptions/hy.qm
+[build] [752/1243  59% :: 50.575] Generating ../../translations/stellarium-skycultures-descriptions/is.qm
+[build] [753/1243  59% :: 50.578] Generating ../../translations/stellarium-skycultures-descriptions/it.qm
+[build] [754/1243  59% :: 50.583] Generating ../../translations/stellarium-skycultures-descriptions/id.qm
+[build] [755/1243  59% :: 50.586] Generating ../../translations/stellarium-skycultures-descriptions/jv.qm
+[build] [756/1243  59% :: 50.588] Generating ../../translations/stellarium-skycultures-descriptions/ja.qm
+[build] [757/1243  59% :: 50.592] Generating ../../translations/stellarium-skycultures-descriptions/ka.qm
+[build] [758/1243  59% :: 50.596] Generating ../../translations/stellarium-skycultures-descriptions/ko.qm
+[build] [759/1243  59% :: 50.600] Generating ../../translations/stellarium-skycultures-descriptions/la.qm
+[build] [760/1243  59% :: 50.601] Generating ../../translations/stellarium-skycultures-descriptions/lb.qm
+[build] [761/1243  59% :: 50.609] Generating ../../translations/stellarium-skycultures-descriptions/lv.qm
+[build] [762/1243  59% :: 50.612] Generating ../../translations/stellarium-skycultures-descriptions/mi.qm
+[build] [763/1243  60% :: 50.614] Generating ../../translations/stellarium-skycultures-descriptions/ml.qm
+[build] [764/1243  60% :: 50.615] Generating ../../translations/stellarium-skycultures-descriptions/lt.qm
+[build] [765/1243  60% :: 50.619] Generating ../../translations/stellarium-skycultures-descriptions/mr.qm
+[build] [766/1243  60% :: 50.623] Generating ../../translations/stellarium-skycultures-descriptions/ms.qm
+[build] [767/1243  60% :: 50.625] Generating ../../translations/stellarium-skycultures-descriptions/nb.qm
+[build] [768/1243  60% :: 50.627] Generating ../../translations/stellarium-skycultures-descriptions/ne.qm
+[build] [769/1243  60% :: 50.632] Generating ../../translations/stellarium-skycultures-descriptions/nn.qm
+[build] [770/1243  60% :: 50.637] Generating ../../translations/stellarium-skycultures-descriptions/pl.qm
+[build] [771/1243  60% :: 50.641] Generating ../../translations/stellarium-skycultures-descriptions/nl.qm
+[build] [772/1243  60% :: 50.644] Generating ../../translations/stellarium-skycultures-descriptions/pt.qm
+[build] [773/1243  60% :: 50.648] Generating ../../translations/stellarium-skycultures-descriptions/pt_BR.qm
+[build] [774/1243  60% :: 50.651] Generating ../../translations/stellarium-skycultures-descriptions/qu.qm
+[build] [775/1243  60% :: 50.654] Generating ../../translations/stellarium-skycultures-descriptions/rap.qm
+[build] [776/1243  61% :: 50.657] Generating ../../translations/stellarium-skycultures-descriptions/ro.qm
+[build] [777/1243  61% :: 50.662] Generating ../../translations/stellarium-skycultures-descriptions/sa.qm
+[build] [778/1243  61% :: 50.665] Generating ../../translations/stellarium-skycultures-descriptions/sc.qm
+[build] [779/1243  61% :: 50.669] Generating ../../translations/stellarium-skycultures-descriptions/shi.qm
+[build] [780/1243  61% :: 50.672] Generating ../../translations/stellarium-skycultures-descriptions/si.qm
+[build] [781/1243  61% :: 50.674] Generating ../../translations/stellarium-skycultures-descriptions/ru.qm
+[build] [782/1243  61% :: 50.680] Generating ../../translations/stellarium-skycultures-descriptions/sl.qm
+[build] [783/1243  61% :: 50.683] Generating ../../translations/stellarium-skycultures-descriptions/sk.qm
+[build] [784/1243  61% :: 50.686] Generating ../../translations/stellarium-skycultures-descriptions/sq.qm
+[build] [785/1243  61% :: 50.688] Generating ../../translations/stellarium-skycultures-descriptions/sr.qm
+[build] [786/1243  61% :: 50.694] Generating ../../translations/stellarium-skycultures-descriptions/ta.qm
+[build] [787/1243  61% :: 50.698] Generating ../../translations/stellarium-skycultures-descriptions/th.qm
+[build] [788/1243  62% :: 50.701] Generating ../../translations/stellarium-skycultures-descriptions/te.qm
+[build] [789/1243  62% :: 50.704] Generating ../../translations/stellarium-skycultures-descriptions/sv.qm
+[build] [790/1243  62% :: 50.705] Generating ../../translations/stellarium-skycultures-descriptions/ti.qm
+[build] [791/1243  62% :: 50.711] Generating ../../translations/stellarium-skycultures-descriptions/tr.qm
+[build] [792/1243  62% :: 50.713] Generating ../../translations/stellarium-skycultures-descriptions/tt.qm
+[build] [793/1243  62% :: 50.714] Generating ../../translations/stellarium-skycultures-descriptions/vi.qm
+[build] [794/1243  62% :: 50.734] Generating ../../translations/stellarium-skycultures-descriptions/zh_HK.qm
+[build] [795/1243  62% :: 50.737] Generating ../../translations/stellarium-skycultures-descriptions/uk.qm
+[build] [796/1243  62% :: 50.739] Generating ../../translations/stellarium-skycultures-descriptions/zh_TW.qm
+[build] [797/1243  62% :: 50.744] Generating ../../translations/stellarium-skycultures-descriptions/zh_CN.qm
+[build] [798/1243  62% :: 50.768] Building CXX object plugins/LensDistortionEstimator/src/CMakeFiles/LensDistortionEstimator-static.dir/LensDistortionEstimator.cpp.o
+[build] [799/1243  62% :: 50.880] Generating ../../translations/stellarium-planetary-features/af.qm
+[build] [800/1243  62% :: 50.885] Generating ../../translations/stellarium-planetary-features/az.qm
+[build] [801/1243  63% :: 50.890] Generating ../../translations/stellarium-planetary-features/be.qm
+[build] [802/1243  63% :: 50.909] Generating ../../translations/stellarium-planetary-features/bg.qm
+[build] [803/1243  63% :: 51.001] Generating ../../translations/stellarium-planetary-features/ar.qm
+[build] [804/1243  63% :: 51.029] Generating ../../translations/stellarium-planetary-features/br.qm
+[build] [805/1243  63% :: 51.034] Generating ../../translations/stellarium-planetary-features/bs.qm
+[build] [806/1243  63% :: 51.122] Generating ../../translations/stellarium-planetary-features/bn.qm
+[build] [807/1243  63% :: 51.151] Generating ../../translations/stellarium-planetary-features/ca.qm
+[build] [808/1243  63% :: 51.203] Generating ../../translations/stellarium-planetary-features/da.qm
+[build] [809/1243  63% :: 51.252] Generating ../../translations/stellarium-planetary-features/ca@valencia.qm
+[build] [810/1243  63% :: 51.267] Automatic MOC and UIC for target TelescopeControl_INDI
+[build] [811/1243  63% :: 51.275] Generating ui_TelescopeClientINDIWidget.h
+[build] [812/1243  63% :: 51.278] Generating ../../translations/stellarium-planetary-features/cs.qm
+[build] [813/1243  64% :: 51.289] Generating ui_INDIControlWidget.h
+[build] [814/1243  64% :: 51.299] Generating ../../translations/stellarium-planetary-features/el.qm
+[build] [815/1243  64% :: 51.372] Generating ../../translations/stellarium-planetary-features/en.qm
+[build] [816/1243  64% :: 51.398] Generating ../../translations/stellarium-planetary-features/de.qm
+[build] [817/1243  64% :: 51.462] Generating ../../translations/stellarium-planetary-features/en_AU.qm
+[build] [818/1243  64% :: 51.496] Generating ../../translations/stellarium-planetary-features/en_CA.qm
+[build] [819/1243  64% :: 51.609] Building CXX object plugins/TextUserInterface/src/CMakeFiles/TextUserInterface-static.dir/TextUserInterface.cpp.o
+[build] /workspaces/Stellarium-stellarium/plugins/TextUserInterface/src/TextUserInterface.cpp: In member function 'virtual void TextUserInterface::init()':
+[build] /workspaces/Stellarium-stellarium/plugins/TextUserInterface/src/TextUserInterface.cpp:471:70: warning: 'int StelSkyDrawer::getBortleScaleIndex() const' is deprecated [-Wdeprecated-declarations]
+[build]   471 |                                        skyDrawer->getBortleScaleIndex(), 1, 9, 1,
+[build]       |                                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~
+[build] In file included from /workspaces/Stellarium-stellarium/src/core/StelCore.hpp:27,
+[build]                  from /workspaces/Stellarium-stellarium/plugins/TextUserInterface/src/TextUserInterface.hpp:24,
+[build]                  from /workspaces/Stellarium-stellarium/plugins/TextUserInterface/src/TextUserInterface.cpp:19:
+[build] /workspaces/Stellarium-stellarium/src/core/StelSkyDrawer.hpp:216:31: note: declared here
+[build]   216 |         Q_DECL_DEPRECATED int getBortleScaleIndex() const;
+[build]       |                               ^~~~~~~~~~~~~~~~~~~
+[build] /workspaces/Stellarium-stellarium/plugins/TextUserInterface/src/TextUserInterface.cpp: In member function 'void TextUserInterface::saveDefaultSettings()':
+[build] /workspaces/Stellarium-stellarium/plugins/TextUserInterface/src/TextUserInterface.cpp:905:76: warning: 'int StelSkyDrawer::getBortleScaleIndex() const' is deprecated [-Wdeprecated-declarations]
+[build]   905 |         conf->setValue("stars/init_bortle_scale", skyd->getBortleScaleIndex());
+[build]       |                                                   ~~~~~~~~~~~~~~~~~~~~~~~~~^~
+[build] /workspaces/Stellarium-stellarium/src/core/StelSkyDrawer.hpp:216:31: note: declared here
+[build]   216 |         Q_DECL_DEPRECATED int getBortleScaleIndex() const;
+[build]       |                               ^~~~~~~~~~~~~~~~~~~
+[build] [820/1243  64% :: 51.623] Generating ../../translations/stellarium-planetary-features/en_GB.qm
+[build] [821/1243  64% :: 51.765] Generating ../../translations/stellarium-planetary-features/en_US.qm
+[build] [822/1243  64% :: 52.001] Generating ../../translations/stellarium-planetary-features/es.qm
+[build] [823/1243  64% :: 52.029] Building CXX object plugins/LensDistortionEstimator/src/CMakeFiles/LensDistortionEstimator-static.dir/gui/LensDistortionEstimatorDialog.cpp.o
+[build] [824/1243  64% :: 52.256] Generating ../../translations/stellarium-planetary-features/es_419.qm
+[build] [825/1243  65% :: 52.408] Generating ../../translations/stellarium-planetary-features/et.qm
+[build] [826/1243  65% :: 52.527] Linking CXX static library plugins/TextUserInterface/src/libTextUserInterface.a
+[build] [827/1243  65% :: 52.572] Generating ../../translations/stellarium-planetary-features/eu.qm
+[build] [828/1243  65% :: 52.695] Generating ../../translations/stellarium-planetary-features/fa.qm
+[build] [829/1243  65% :: 52.769] Linking CXX static library plugins/LensDistortionEstimator/src/libLensDistortionEstimator.a
+[build] [830/1243  65% :: 52.794] Building CXX object plugins/TelescopeControl/src/NexStar/CMakeFiles/TelescopeControl_NexStar.dir/NexStarCommand.cpp.o
+[build] [831/1243  65% :: 52.834] Building CXX object plugins/TelescopeControl/src/NexStar/CMakeFiles/TelescopeControl_NexStar.dir/TelescopeControl_NexStar_autogen/mocs_compilation.cpp.o
+[build] [832/1243  65% :: 52.859] Building CXX object plugins/TelescopeControl/src/Lx200/CMakeFiles/TelescopeControl_Lx200.dir/Lx200Command.cpp.o
+[build] [833/1243  65% :: 52.868] Generating ../../translations/stellarium-planetary-features/fi.qm
+[build] [834/1243  65% :: 52.895] Building CXX object plugins/TelescopeControl/src/Lx200/CMakeFiles/TelescopeControl_Lx200.dir/TelescopeControl_Lx200_autogen/mocs_compilation.cpp.o
+[build] [835/1243  65% :: 52.956] Building CXX object plugins/TelescopeControl/src/Lx200/CMakeFiles/TelescopeControl_Lx200.dir/Lx200Connection.cpp.o
+[build] [836/1243  65% :: 52.975] Generating ../../translations/stellarium-planetary-features/fr.qm
+[build] [837/1243  65% :: 53.033] Building CXX object plugins/TelescopeControl/src/NexStar/CMakeFiles/TelescopeControl_NexStar.dir/NexStarConnection.cpp.o
+[build] [838/1243  66% :: 53.035] Generating ../../translations/stellarium-planetary-features/gu.qm
+[build] [839/1243  66% :: 53.053] Generating ../../translations/stellarium-planetary-features/gd.qm
+[build] [840/1243  66% :: 53.074] Generating ../../translations/stellarium-planetary-features/hi.qm
+[build] [841/1243  66% :: 53.118] Generating ../../translations/stellarium-planetary-features/he.qm
+[build] [842/1243  66% :: 53.123] Generating ../../translations/stellarium-planetary-features/gl.qm
+[build] [843/1243  66% :: 53.149] Generating ../../translations/stellarium-planetary-features/hy.qm
+[build] [844/1243  66% :: 53.171] Generating ../../translations/stellarium-planetary-features/hr.qm
+[build] [845/1243  66% :: 53.188] Generating ../../translations/stellarium-planetary-features/id.qm
+[build] [846/1243  66% :: 53.210] Building CXX object plugins/TelescopeControl/src/NexStar/CMakeFiles/TelescopeControl_NexStar.dir/TelescopeClientDirectNexStar.cpp.o
+[build] [847/1243  66% :: 53.214] Generating ../../translations/stellarium-planetary-features/is.qm
+[build] [848/1243  66% :: 53.231] Building CXX object plugins/TelescopeControl/src/Lx200/CMakeFiles/TelescopeControl_Lx200.dir/TelescopeClientDirectLx200.cpp.o
+[build] [849/1243  66% :: 53.245] Generating ../../translations/stellarium-planetary-features/hu.qm
+[build] [850/1243  67% :: 53.260] Building CXX object plugins/TelescopeControl/src/Rts2/CMakeFiles/TelescopeControl_Rts2.dir/TelescopeControl_Rts2_autogen/mocs_compilation.cpp.o
+[build] [851/1243  67% :: 53.302] Generating ../../translations/stellarium-planetary-features/la.qm
+[build] [852/1243  67% :: 53.317] Generating ../../translations/stellarium-planetary-features/lb.qm
+[build] [853/1243  67% :: 53.341] Generating ../../translations/stellarium-planetary-features/it.qm
+[build] [854/1243  67% :: 53.362] Generating ../../translations/stellarium-planetary-features/ko.qm
+[build] [855/1243  67% :: 53.367] Generating ../../translations/stellarium-planetary-features/jv.qm
+[build] [856/1243  67% :: 53.400] Generating ../../translations/stellarium-planetary-features/ml.qm
+[build] [857/1243  67% :: 53.410] Generating ../../translations/stellarium-planetary-features/lv.qm
+[build] [858/1243  67% :: 53.454] Generating ../../translations/stellarium-planetary-features/mr.qm
+[build] [859/1243  67% :: 53.462] Generating ../../translations/stellarium-planetary-features/nb.qm
+[build] [860/1243  67% :: 53.465] Generating ../../translations/stellarium-planetary-features/lt.qm
+[build] [861/1243  67% :: 53.512] Generating ../../translations/stellarium-planetary-features/ne.qm
+[build] [862/1243  67% :: 53.517] Generating ../../translations/stellarium-planetary-features/ms.qm
+[build] [863/1243  68% :: 53.557] Building CXX object plugins/TelescopeControl/src/Rts2/CMakeFiles/TelescopeControl_Rts2.dir/TelescopeClientJsonRts2.cpp.o
+[build] [864/1243  68% :: 53.564] Generating ../../translations/stellarium-planetary-features/pl.qm
+[build] [865/1243  68% :: 53.567] Generating ../../translations/stellarium-planetary-features/pt.qm
+[build] [866/1243  68% :: 53.576] Generating ../../translations/stellarium-planetary-features/ja.qm
+[build] [867/1243  68% :: 53.621] Generating ../../translations/stellarium-planetary-features/pt_BR.qm
+[build] [868/1243  68% :: 53.630] Generating ../../translations/stellarium-planetary-features/nn.qm
+[build] [869/1243  68% :: 53.631] Generating ../../translations/stellarium-planetary-features/ro.qm
+[build] [870/1243  68% :: 53.665] Generating ../../translations/stellarium-planetary-features/nl.qm
+[build] [871/1243  68% :: 53.682] Generating ../../translations/stellarium-planetary-features/si.qm
+[build] [872/1243  68% :: 53.723] Generating ../../translations/stellarium-planetary-features/sl.qm
+[build] [873/1243  68% :: 53.728] Generating ../../translations/stellarium-planetary-features/sq.qm
+[build] [874/1243  68% :: 53.769] Generating ../../translations/stellarium-planetary-features/sr.qm
+[build] [875/1243  69% :: 53.772] Generating ../../translations/stellarium-planetary-features/sc.qm
+[build] [876/1243  69% :: 53.773] Linking CXX static library plugins/TelescopeControl/src/NexStar/libTelescopeControl_NexStar.a
+[build] [877/1243  69% :: 53.780] Generating ../../translations/stellarium-planetary-features/sr@latin.qm
+[build] [878/1243  69% :: 53.792] Generating ../../translations/stellarium-planetary-features/ru.qm
+[build] [879/1243  69% :: 53.812] Generating ../../translations/stellarium-planetary-features/ta.qm
+[build] [880/1243  69% :: 53.821] Generating ../../translations/stellarium-planetary-features/sk.qm
+[build] [881/1243  69% :: 53.829] Generating ../../translations/stellarium-scripts/af.qm
+[build] [882/1243  69% :: 53.839] Generating ../../translations/stellarium-scripts/ar.qm
+[build] [883/1243  69% :: 53.842] Linking CXX static library plugins/TelescopeControl/src/Lx200/libTelescopeControl_Lx200.a
+[build] [884/1243  69% :: 53.852] Generating ../../translations/stellarium-scripts/az.qm
+[build] [885/1243  69% :: 53.854] Generating ../../translations/stellarium-scripts/be.qm
+[build] [886/1243  69% :: 53.871] Generating ../../translations/stellarium-scripts/bn.qm
+[build] [887/1243  69% :: 53.873] Generating ../../translations/stellarium-scripts/bg.qm
+[build] [888/1243  70% :: 53.875] Generating ../../translations/stellarium-scripts/br.qm
+[build] [889/1243  70% :: 53.879] Generating ../../translations/stellarium-planetary-features/th.qm
+[build] [890/1243  70% :: 53.882] Generating ../../translations/stellarium-scripts/bs.qm
+[build] [891/1243  70% :: 53.885] Generating ../../translations/stellarium-scripts/ca.qm
+[build] [892/1243  70% :: 53.888] Generating ../../translations/stellarium-scripts/ca@valencia.qm
+[build] [893/1243  70% :: 53.894] Generating ../../translations/stellarium-scripts/cs.qm
+[build] [894/1243  70% :: 53.897] Generating ../../translations/stellarium-scripts/da.qm
+[build] [895/1243  70% :: 53.901] Generating ../../translations/stellarium-scripts/de.qm
+[build] [896/1243  70% :: 53.904] Generating ../../translations/stellarium-scripts/el.qm
+[build] [897/1243  70% :: 53.906] Generating ../../translations/stellarium-scripts/en.qm
+[build] [898/1243  70% :: 53.911] Generating ../../translations/stellarium-scripts/en_AU.qm
+[build] [899/1243  70% :: 53.915] Generating ../../translations/stellarium-scripts/en_CA.qm
+[build] [900/1243  71% :: 53.920] Generating ../../translations/stellarium-scripts/en_GB.qm
+[build] [901/1243  71% :: 53.921] Generating ../../translations/stellarium-scripts/en_US.qm
+[build] [902/1243  71% :: 53.926] Generating ../../translations/stellarium-planetary-features/sv.qm
+[build] [903/1243  71% :: 53.930] Generating ../../translations/stellarium-scripts/es.qm
+[build] [904/1243  71% :: 53.934] Generating ../../translations/stellarium-planetary-features/te.qm
+[build] [905/1243  71% :: 53.936] Generating ../../translations/stellarium-scripts/es_419.qm
+[build] [906/1243  71% :: 53.937] Generating ../../translations/stellarium-scripts/et.qm
+[build] [907/1243  71% :: 53.940] Generating ../../translations/stellarium-scripts/eu.qm
+[build] [908/1243  71% :: 53.944] Generating ../../translations/stellarium-planetary-features/vi.qm
+[build] [909/1243  71% :: 53.946] Generating ../../translations/stellarium-scripts/fa.qm
+[build] [910/1243  71% :: 53.948] Generating ../../translations/stellarium-scripts/fi.qm
+[build] [911/1243  71% :: 53.949] Generating ../../translations/stellarium-scripts/fr.qm
+[build] [912/1243  72% :: 53.952] Generating ../../translations/stellarium-scripts/gd.qm
+[build] [913/1243  72% :: 53.954] Generating ../../translations/stellarium-scripts/gl.qm
+[build] [914/1243  72% :: 53.956] Generating ../../translations/stellarium-scripts/gu.qm
+[build] [915/1243  72% :: 53.958] Generating ../../translations/stellarium-scripts/he.qm
+[build] [916/1243  72% :: 53.960] Generating ../../translations/stellarium-scripts/hi.qm
+[build] [917/1243  72% :: 53.962] Generating ../../translations/stellarium-scripts/hr.qm
+[build] [918/1243  72% :: 53.965] Generating ../../translations/stellarium-scripts/hu.qm
+[build] [919/1243  72% :: 53.968] Generating ../../translations/stellarium-scripts/hy.qm
+[build] [920/1243  72% :: 53.970] Generating ../../translations/stellarium-scripts/id.qm
+[build] [921/1243  72% :: 53.971] Generating ../../translations/stellarium-scripts/is.qm
+[build] [922/1243  72% :: 53.973] Generating ../../translations/stellarium-scripts/it.qm
+[build] [923/1243  72% :: 53.977] Generating ../../translations/stellarium-scripts/ja.qm
+[build] [924/1243  72% :: 53.978] Generating ../../translations/stellarium-scripts/jv.qm
+[build] [925/1243  73% :: 53.980] Generating ../../translations/stellarium-scripts/ko.qm
+[build] [926/1243  73% :: 53.982] Generating ../../translations/stellarium-scripts/la.qm
+[build] [927/1243  73% :: 53.986] Generating ../../translations/stellarium-scripts/lb.qm
+[build] [928/1243  73% :: 53.987] Generating ../../translations/stellarium-scripts/lt.qm
+[build] [929/1243  73% :: 53.989] Generating ../../translations/stellarium-scripts/lv.qm
+[build] [930/1243  73% :: 53.997] Generating ../../translations/stellarium-scripts/ml.qm
+[build] [931/1243  73% :: 54.010] Generating ../../translations/stellarium-scripts/mr.qm
+[build] [932/1243  73% :: 54.012] Linking CXX static library plugins/TelescopeControl/src/Rts2/libTelescopeControl_Rts2.a
+[build] [933/1243  73% :: 54.013] Generating ../../translations/stellarium-planetary-features/tr.qm
+[build] [934/1243  73% :: 54.015] Generating ../../translations/stellarium-scripts/ms.qm
+[build] [935/1243  73% :: 54.021] Generating ../../translations/stellarium-scripts/nb.qm
+[build] [936/1243  73% :: 54.023] Generating ../../translations/stellarium-scripts/ne.qm
+[build] [937/1243  74% :: 54.025] Generating ../../translations/stellarium-scripts/nl.qm
+[build] [938/1243  74% :: 54.027] Generating ../../translations/stellarium-scripts/pl.qm
+[build] [939/1243  74% :: 54.028] Generating ../../translations/stellarium-scripts/pt_BR.qm
+[build] [940/1243  74% :: 54.031] Generating ../../translations/stellarium-scripts/ro.qm
+[build] [941/1243  74% :: 54.034] Generating ../../translations/stellarium-scripts/pt.qm
+[build] [942/1243  74% :: 54.036] Generating ../../translations/stellarium-scripts/ru.qm
+[build] [943/1243  74% :: 54.037] Generating ../../translations/stellarium-scripts/sc.qm
+[build] [944/1243  74% :: 54.038] Generating ../../translations/stellarium-scripts/si.qm
+[build] [945/1243  74% :: 54.041] Generating ../../translations/stellarium-scripts/sl.qm
+[build] [946/1243  74% :: 54.043] Generating ../../translations/stellarium-scripts/sq.qm
+[build] [947/1243  74% :: 54.047] Generating ../../translations/stellarium-scripts/sr.qm
+[build] [948/1243  74% :: 54.048] Generating ../../translations/stellarium-planetary-features/zh_HK.qm
+[build] [949/1243  74% :: 54.048] Generating ../../translations/stellarium-scripts/sk.qm
+[build] [950/1243  75% :: 54.050] Generating ../../translations/stellarium-scripts/sv.qm
+[build] [951/1243  75% :: 54.051] Generating ../../translations/stellarium-scripts/ta.qm
+[build] [952/1243  75% :: 54.053] Generating ../../translations/stellarium-scripts/te.qm
+[build] [953/1243  75% :: 54.054] Generating ../../translations/stellarium-scripts/th.qm
+[build] [954/1243  75% :: 54.055] Generating ../../translations/stellarium-planetary-features/zh_CN.qm
+[build] [955/1243  75% :: 54.057] Generating ../../translations/stellarium-planetary-features/zh_TW.qm
+[build] [956/1243  75% :: 54.061] Generating ../../translations/stellarium-scripts/uk.qm
+[build] [957/1243  75% :: 54.062] Generating ../../translations/stellarium-scripts/vi.qm
+[build] [958/1243  75% :: 54.065] Generating ../../translations/stellarium-scripts/tr.qm
+[build] [959/1243  75% :: 54.066] Generating ../../translations/stellarium-scripts/zh_CN.qm
+[build] [960/1243  75% :: 54.068] Generating ../../translations/stellarium-scripts/zh_HK.qm
+[build] [961/1243  75% :: 54.070] Generating ../../translations/stellarium-scripts/zh_TW.qm
+[build] [962/1243  76% :: 54.071] Generating ../../translations/stellarium-remotecontrol/af.qm
+[build] [963/1243  76% :: 54.073] Generating ../../translations/stellarium-remotecontrol/ar.qm
+[build] [964/1243  76% :: 54.074] Generating ../../translations/stellarium-remotecontrol/az.qm
+[build] [965/1243  76% :: 54.075] Generating ../../translations/stellarium-remotecontrol/be.qm
+[build] [966/1243  76% :: 54.077] Generating ../../translations/stellarium-remotecontrol/bg.qm
+[build] [967/1243  76% :: 54.079] Generating ../../translations/stellarium-planetary-features/uk.qm
+[build] [968/1243  76% :: 54.080] Generating ../../translations/stellarium-remotecontrol/bn.qm
+[build] [969/1243  76% :: 54.081] Generating ../../translations/stellarium-remotecontrol/br.qm
+[build] [970/1243  76% :: 54.083] Generating ../../translations/stellarium-remotecontrol/bs.qm
+[build] [971/1243  76% :: 54.086] Generating ../../translations/stellarium-remotecontrol/ca.qm
+[build] [972/1243  76% :: 54.087] Generating ../../translations/stellarium-remotecontrol/ca@valencia.qm
+[build] [973/1243  76% :: 54.089] Generating ../../translations/stellarium-remotecontrol/cs.qm
+[build] [974/1243  76% :: 54.092] Generating ../../translations/stellarium-remotecontrol/da.qm
+[build] [975/1243  77% :: 54.094] Generating ../../translations/stellarium-remotecontrol/de.qm
+[build] [976/1243  77% :: 54.097] Generating ../../translations/stellarium-remotecontrol/el.qm
+[build] [977/1243  77% :: 54.098] Generating ../../translations/stellarium-remotecontrol/en.qm
+[build] [978/1243  77% :: 54.100] Generating ../../translations/stellarium-remotecontrol/en_AU.qm
+[build] [979/1243  77% :: 54.101] Generating ../../translations/stellarium-remotecontrol/en_CA.qm
+[build] [980/1243  77% :: 54.103] Generating ../../translations/stellarium-remotecontrol/en_GB.qm
+[build] [981/1243  77% :: 54.105] Generating ../../translations/stellarium-remotecontrol/en_US.qm
+[build] [982/1243  77% :: 54.106] Generating ../../translations/stellarium-remotecontrol/es.qm
+[build] [983/1243  77% :: 54.108] Generating ../../translations/stellarium-remotecontrol/et.qm
+[build] [984/1243  77% :: 54.110] Generating ../../translations/stellarium-remotecontrol/eu.qm
+[build] [985/1243  77% :: 54.112] Generating ../../translations/stellarium-remotecontrol/es_419.qm
+[build] [986/1243  77% :: 54.113] Generating ../../translations/stellarium-remotecontrol/fa.qm
+[build] [987/1243  78% :: 54.116] Generating ../../translations/stellarium-remotecontrol/fi.qm
+[build] [988/1243  78% :: 54.117] Generating ../../translations/stellarium-remotecontrol/fr.qm
+[build] [989/1243  78% :: 54.119] Generating ../../translations/stellarium-remotecontrol/gd.qm
+[build] [990/1243  78% :: 54.121] Generating ../../translations/stellarium-remotecontrol/gl.qm
+[build] [991/1243  78% :: 54.124] Generating ../../translations/stellarium-remotecontrol/gu.qm
+[build] [992/1243  78% :: 54.126] Generating ../../translations/stellarium-remotecontrol/he.qm
+[build] [993/1243  78% :: 54.129] Generating ../../translations/stellarium-remotecontrol/hi.qm
+[build] [994/1243  78% :: 54.130] Generating ../../translations/stellarium-remotecontrol/hr.qm
+[build] [995/1243  78% :: 54.132] Generating ../../translations/stellarium-remotecontrol/hu.qm
+[build] [996/1243  78% :: 54.133] Generating ../../translations/stellarium-remotecontrol/hy.qm
+[build] [997/1243  78% :: 54.135] Generating ../../translations/stellarium-remotecontrol/id.qm
+[build] [998/1243  78% :: 54.137] Generating ../../translations/stellarium-remotecontrol/is.qm
+[build] [999/1243  79% :: 54.140] Generating ../../translations/stellarium-remotecontrol/it.qm
+[build] [1000/1243  79% :: 54.142] Generating ../../translations/stellarium-remotecontrol/ja.qm
+[build] [1001/1243  79% :: 54.143] Generating ../../translations/stellarium-remotecontrol/jv.qm
+[build] [1002/1243  79% :: 54.144] Generating ../../translations/stellarium-remotecontrol/ka.qm
+[build] [1003/1243  79% :: 54.148] Generating ../../translations/stellarium-remotecontrol/ko.qm
+[build] [1004/1243  79% :: 54.152] Generating ../../translations/stellarium-remotecontrol/la.qm
+[build] [1005/1243  79% :: 54.154] Generating ../../translations/stellarium-remotecontrol/lb.qm
+[build] [1006/1243  79% :: 54.157] Generating ../../translations/stellarium-remotecontrol/lt.qm
+[build] [1007/1243  79% :: 54.160] Generating ../../translations/stellarium-remotecontrol/lv.qm
+[build] [1008/1243  79% :: 54.163] Generating ../../translations/stellarium-remotecontrol/ml.qm
+[build] [1009/1243  79% :: 54.167] Generating ../../translations/stellarium-remotecontrol/mr.qm
+[build] [1010/1243  79% :: 54.168] Generating ../../translations/stellarium-remotecontrol/ms.qm
+[build] [1011/1243  79% :: 54.169] Generating ../../translations/stellarium-remotecontrol/nb.qm
+[build] [1012/1243  80% :: 54.171] Generating ../../translations/stellarium-remotecontrol/ne.qm
+[build] [1013/1243  80% :: 54.173] Generating ../../translations/stellarium-remotecontrol/nl.qm
+[build] [1014/1243  80% :: 54.175] Generating ../../translations/stellarium-remotecontrol/nn.qm
+[build] [1015/1243  80% :: 54.178] Generating ../../translations/stellarium-remotecontrol/pl.qm
+[build] [1016/1243  80% :: 54.180] Generating ../../translations/stellarium-remotecontrol/pt.qm
+[build] [1017/1243  80% :: 54.181] Generating ../../translations/stellarium-remotecontrol/pt_BR.qm
+[build] [1018/1243  80% :: 54.182] Generating ../../translations/stellarium-remotecontrol/ro.qm
+[build] [1019/1243  80% :: 54.185] Generating ../../translations/stellarium-remotecontrol/ru.qm
+[build] [1020/1243  80% :: 54.185] Generating ../../translations/stellarium-remotecontrol/sc.qm
+[build] [1021/1243  80% :: 54.187] Generating ../../translations/stellarium-remotecontrol/si.qm
+[build] [1022/1243  80% :: 54.188] Generating ../../translations/stellarium-remotecontrol/sl.qm
+[build] [1023/1243  80% :: 54.190] Generating ../../translations/stellarium-remotecontrol/sk.qm
+[build] [1024/1243  81% :: 54.191] Generating ../../translations/stellarium-remotecontrol/sq.qm
+[build] [1024/1243  81% :: 54.194] Generating ../../translations/stellarium-remotecontrol/sr.qm
+[build] [1024/1243  81% :: 54.194] Generating ../../translations/stellarium-remotecontrol/sr@latin.qm
+[build] [1024/1243  81% :: 54.195] Generating ../../translations/stellarium-remotecontrol/sv.qm
+[build] [1024/1243  81% :: 54.195] Generating ../../translations/stellarium-remotecontrol/ta.qm
+[build] [1024/1243  81% :: 54.196] Generating ../../translations/stellarium-remotecontrol/th.qm
+[build] [1024/1243  81% :: 54.196] Generating ../../translations/stellarium-remotecontrol/tr.qm
+[build] [1024/1243  81% :: 54.197] Generating ../../translations/stellarium-remotecontrol/uk.qm
+[build] [1024/1243  81% :: 54.198] Generating ../../translations/stellarium-remotecontrol/te.qm
+[build] [1024/1243  81% :: 54.199] Generating ../../translations/stellarium-remotecontrol/vi.qm
+[build] [1024/1243  81% :: 54.199] Generating ../../translations/stellarium-remotecontrol/zh_CN.qm
+[build] [1024/1243  81% :: 54.201] Generating ../../translations/stellarium-remotecontrol/zh_HK.qm
+[build] [1024/1243  81% :: 54.202] Generating ../../translations/stellarium-remotecontrol/zh_TW.qm
+[build] [1024/1243  82% :: 54.948] Building CXX object plugins/TelescopeControl/src/INDI/CMakeFiles/TelescopeControl_INDI.dir/INDIConnection.cpp.o
+[build] [1024/1243  82% :: 55.030] Building CXX object plugins/TelescopeControl/src/INDI/CMakeFiles/TelescopeControl_INDI.dir/TelescopeClientINDIWidget.cpp.o
+[build] [1024/1243  82% :: 55.348] Building CXX object plugins/TelescopeControl/src/INDI/CMakeFiles/TelescopeControl_INDI.dir/INDIControlWidget.cpp.o
+[build] [1024/1243  82% :: 55.370] Building CXX object plugins/TelescopeControl/src/INDI/CMakeFiles/TelescopeControl_INDI.dir/TelescopeControl_INDI_autogen/mocs_compilation.cpp.o
+[build] [1024/1243  82% :: 55.884] Building CXX object plugins/TelescopeControl/src/INDI/CMakeFiles/TelescopeControl_INDI.dir/TelescopeClientINDI.cpp.o
+[build] [1025/1243  82% :: 56.055] Linking CXX static library plugins/TelescopeControl/src/INDI/libTelescopeControl_INDI.a
+[build] [1026/1243  82% :: 56.965] Automatic MOC and UIC for target TelescopeControl_gui
+[build] [1030/1243  82% :: 56.970] Generating ui_telescopeDialog.h
+[build] [1030/1243  82% :: 56.970] Generating ui_slewDialog.h
+[build] [1030/1243  82% :: 56.971] Generating ui_storedPointsDialog.h
+[build] [1030/1243  82% :: 56.971] Generating ui_telescopeConfigurationDialog.h
+[build] [1035/1243  82% :: 59.425] Building CXX object plugins/TelescopeControl/src/gui/CMakeFiles/TelescopeControl_gui.dir/TelescopeControl_gui_autogen/mocs_compilation.cpp.o
+[build] [1035/1243  83% :: 59.493] Building CXX object plugins/TelescopeControl/src/gui/CMakeFiles/TelescopeControl_gui.dir/StoredPointsDialog.cpp.o
+[build] [1035/1243  83% :: 59.764] Building CXX object plugins/TelescopeControl/src/gui/CMakeFiles/TelescopeControl_gui.dir/TelescopeConfigurationDialog.cpp.o
+[build] [1035/1243  83% :: 59.885] Building CXX object plugins/TelescopeControl/src/gui/CMakeFiles/TelescopeControl_gui.dir/SlewDialog.cpp.o
+[build] [1035/1243  83% :: 60.201] Building CXX object plugins/TelescopeControl/src/gui/CMakeFiles/TelescopeControl_gui.dir/TelescopeDialog.cpp.o
+[build] [1036/1243  83% :: 60.421] Linking CXX static library plugins/TelescopeControl/src/gui/libTelescopeControl_gui.a
+[build] [1037/1243  83% :: 61.058] Automatic MOC and UIC for target TelescopeControl-static
+[build] [1038/1243  83% :: 61.065] Generating qrc_TelescopeControl.cpp
+[build] [1040/1243  83% :: 61.097] Building CXX object plugins/TelescopeControl/src/CMakeFiles/TelescopeControl-static.dir/qrc_TelescopeControl.cpp.o
+[build] [1040/1243  83% :: 65.775] Building CXX object plugins/TelescopeControl/src/CMakeFiles/TelescopeControl-static.dir/cmake_pch.hxx.gch
+[build] [1043/1243  83% :: 66.540] Building CXX object plugins/TelescopeControl/src/CMakeFiles/TelescopeControl-static.dir/TelescopeControl-static_autogen/mocs_compilation.cpp.o
+[build] [1043/1243  83% :: 66.973] Building CXX object plugins/TelescopeControl/src/CMakeFiles/TelescopeControl-static.dir/TelescopeClient.cpp.o
+[build] [1043/1243  83% :: 67.942] Building CXX object plugins/TelescopeControl/src/CMakeFiles/TelescopeControl-static.dir/TelescopeControl.cpp.o
+[build] [1044/1243  83% :: 68.119] Linking CXX static library plugins/TelescopeControl/src/libTelescopeControl.a
+[build] [1045/1243  84% :: 78.000] Automatic MOC and UIC for target stelMain
+[build] [1063/1243  84% :: 78.022] Generating ui_locationDialogGui.h
+[build] [1064/1243  84% :: 78.025] Generating ui_helpDialogGui.h
+[build] [1065/1243  84% :: 78.027] Generating ui_shortcutsDialog.h
+[build] [1066/1243  84% :: 78.027] Generating ui_dateTimeDialogGui.h
+[build] [1067/1243  84% :: 78.028] Generating ui_lightPollutionWidget.h
+[build] [1068/1243  84% :: 78.029] Generating ui_customDeltaTEquationDialog.h
+[build] [1069/1243  84% :: 78.030] Generating ui_searchDialogGui.h
+[build] [1070/1243  84% :: 78.032] Generating ui_configurationDialog.h
+[build] [1070/1243  84% :: 78.032] Generating ui_atmosphereDialog.h
+[build] [1070/1243  84% :: 78.033] Generating ui_greatRedSpotDialog.h
+[build] [1070/1243  84% :: 78.033] Generating ui_configureScreenshotsDialog.h
+[build] [1070/1243  85% :: 78.034] Generating ui_astroCalcDialog.h
+[build] [1070/1243  85% :: 78.034] Generating ui_astroCalcExtraEphemerisDialog.h
+[build] [1070/1243  85% :: 78.035] Generating ui_astroCalcCustomStepsDialog.h
+[build] [1070/1243  85% :: 78.035] Generating ui_astroCalcAlmanacWidget.h
+[build] [1070/1243  85% :: 78.035] Generating ui_obsListDialog.h
+[build] [1070/1243  85% :: 78.035] Generating ui_addRemoveLandscapesDialog.h
+[build] [1070/1243  85% :: 78.037] Generating ui_dsoColorsDialog.h
+[build] [1070/1243  85% :: 78.037] Generating ui_orbitColorsDialog.h
+[build] [1070/1243  85% :: 78.037] Generating ui_tonemappingDialog.h
+[build] [1070/1243  85% :: 78.038] Generating ui_skylightDialog.h
+[build] [1070/1243  85% :: 78.039] Generating ui_scriptConsole.h
+[build] [1070/1243  85% :: 78.039] Generating qrc_mainRes.cpp
+[build] [1070/1243  86% :: 78.040] Generating ui_viewDialog.h
+[build] [1070/1243  86% :: 78.372] Generating qrc_guiRes.cpp
+[build] [1085/1243  86% :: 78.432] Building C object src/CMakeFiles/stelMain.dir/core/planetsephems/calc_interpolated_elements.c.o
+[build] [1085/1243  86% :: 78.438] Building CXX object src/CMakeFiles/stelMain.dir/qrc_mainRes.cpp.o
+[build] [1085/1243  86% :: 78.485] Building C object src/CMakeFiles/stelMain.dir/core/planetsephems/pluto.c.o
+[build] [1085/1243  86% :: 78.486] Building C object src/CMakeFiles/stelMain.dir/core/planetsephems/elliptic_to_rectangular.c.o
+[build] [1085/1243  86% :: 78.491] Building C object src/CMakeFiles/stelMain.dir/core/planetsephems/sidereal_time.c.o
+[build] [1085/1243  86% :: 78.497] Building C object src/CMakeFiles/stelMain.dir/core/planetsephems/precession.c.o
+[build] [1085/1243  86% :: 78.507] Building C object src/CMakeFiles/stelMain.dir/core/planetsephems/marssat.c.o
+[build] [1085/1243  86% :: 78.509] Building C object src/CMakeFiles/stelMain.dir/core/planetsephems/tass17.c.o
+[build] [1085/1243  86% :: 78.511] Building C object src/CMakeFiles/stelMain.dir/core/planetsephems/gust86.c.o
+[build] [1085/1243  86% :: 78.513] Building C object src/CMakeFiles/stelMain.dir/core/planetsephems/l12.c.o
+[build] [1085/1243  86% :: 78.517] Building C object src/CMakeFiles/stelMain.dir/core/planetsephems/htc20b.c.o
+[build] [1085/1243  87% :: 78.706] Building C object src/CMakeFiles/stelMain.dir/core/planetsephems/elp82b.c.o
+[build] [1085/1243  87% :: 78.716] Building C object src/CMakeFiles/stelMain.dir/core/planetsephems/vsop87.c.o
+[build] [1085/1243  87% :: 80.365] Building CXX object src/CMakeFiles/stelMain.dir/qrc_guiRes.cpp.o
+[build] [1085/1243  87% :: 85.417] Building CXX object src/CMakeFiles/stelMain.dir/cmake_pch.hxx.gch
+[build] [1103/1243  87% :: 86.314] Building CXX object src/CMakeFiles/stelMain.dir/core/Dithering.cpp.o
+[build] [1104/1243  87% :: 86.341] Building CXX object src/CMakeFiles/stelMain.dir/core/SphericMirrorCalculator.cpp.o
+[build] [1105/1243  87% :: 86.394] Building CXX object src/CMakeFiles/stelMain.dir/core/StelGeodesicGrid.cpp.o
+[build] [1106/1243  87% :: 86.399] Building CXX object src/CMakeFiles/stelMain.dir/core/StelSRGB.cpp.o
+[build] [1107/1243  87% :: 86.408] Building CXX object src/CMakeFiles/stelMain.dir/core/StelLocation.cpp.o
+[build] [1108/1243  87% :: 86.421] Building CXX object src/CMakeFiles/stelMain.dir/core/StelProjector.cpp.o
+[build] [1109/1243  87% :: 86.455] Building CXX object src/CMakeFiles/stelMain.dir/core/StelProjectorClasses.cpp.o
+[build] [1110/1243  87% :: 86.465] Building CXX object src/CMakeFiles/stelMain.dir/core/StelAudioMgr.cpp.o
+[build] [1111/1243  88% :: 86.475] Building CXX object src/CMakeFiles/stelMain.dir/core/StelObserver.cpp.o
+[build] [1112/1243  88% :: 86.833] Building CXX object src/CMakeFiles/stelMain.dir/core/StelMovementMgr.cpp.o
+[build] [1113/1243  88% :: 87.174] Building CXX object src/CMakeFiles/stelMain.dir/core/StelModule.cpp.o
+[build] [1114/1243  88% :: 87.272] Building CXX object src/CMakeFiles/stelMain.dir/core/StelObjectModule.cpp.o
+[build] [1115/1243  88% :: 87.431] Building CXX object src/CMakeFiles/stelMain.dir/core/StelSkyDrawer.cpp.o
+[build] [1116/1243  88% :: 87.485] Building CXX object src/CMakeFiles/stelMain.dir/core/StelSkyImageTile.cpp.o
+[build] [1117/1243  88% :: 87.522] Building CXX object src/CMakeFiles/stelMain.dir/core/StelVideoMgr.cpp.o
+[build] [1118/1243  88% :: 87.589] Building CXX object src/CMakeFiles/stelMain.dir/core/SolarEclipseComputer.cpp.o
+[build] /workspaces/Stellarium-stellarium/src/core/SolarEclipseComputer.cpp: In lambda function:
+[build] /workspaces/Stellarium-stellarium/src/core/SolarEclipseComputer.cpp:361:67: note: parameter passing for argument of type 'std::pair<double, double>' when C++17 is enabled changed to match C++14 in GCC 10.1
+[build]   361 |         const auto lhsAndDerivative = [=](const double Q) -> std::pair<double,double>
+[build]       |                                                                   ^~~~~~~~~~~~~~~~~~~
+[build] [1119/1243  88% :: 87.967] Building CXX object src/CMakeFiles/stelMain.dir/core/StelPainter.cpp.o
+[build] [1120/1243  88% :: 88.247] Building CXX object src/CMakeFiles/stelMain.dir/core/StelLocaleMgr.cpp.o
+[build] [1121/1243  88% :: 88.423] Building CXX object src/CMakeFiles/stelMain.dir/core/MultiLevelJsonBase.cpp.o
+[build] [1122/1243  88% :: 88.444] Building CXX object src/CMakeFiles/stelMain.dir/core/StelFileMgr.cpp.o
+[build] [1123/1243  88% :: 88.468] Building CXX object src/CMakeFiles/stelMain.dir/core/StelModuleMgr.cpp.o
+[build] [1124/1243  89% :: 89.311] Building CXX object src/CMakeFiles/stelMain.dir/core/StelOpenGL.cpp.o
+[build] [1125/1243  89% :: 89.376] Building CXX object src/CMakeFiles/stelMain.dir/core/StelToneReproducer.cpp.o
+[build] [1126/1243  89% :: 89.408] Building CXX object src/CMakeFiles/stelMain.dir/core/StelObjectMgr.cpp.o
+[build] [1127/1243  89% :: 89.451] Building CXX object src/CMakeFiles/stelMain.dir/core/StelSkyLayer.cpp.o
+[build] [1128/1243  89% :: 89.498] Building CXX object src/CMakeFiles/stelMain.dir/core/StelObject.cpp.o
+[build] [1129/1243  89% :: 89.899] Building CXX object src/CMakeFiles/stelMain.dir/core/StelSkyCultureSkyPartition.cpp.o
+[build] [1130/1243  89% :: 90.708] Building CXX object src/CMakeFiles/stelMain.dir/core/StelIniParser.cpp.o
+[build] [1131/1243  89% :: 90.752] Building CXX object src/CMakeFiles/stelMain.dir/core/StelTextureMgr.cpp.o
+[build] [1132/1243  89% :: 90.759] Building CXX object src/CMakeFiles/stelMain.dir/core/StelSkyLayerMgr.cpp.o
+[build] [1133/1243  89% :: 90.762] Building CXX object src/CMakeFiles/stelMain.dir/core/StelLocationMgr.cpp.o
+[build] [1134/1243  89% :: 90.867] Building CXX object src/CMakeFiles/stelMain.dir/core/OctahedronPolygon.cpp.o
+[build] /workspaces/Stellarium-stellarium/src/core/OctahedronPolygon.cpp: In member function 'void OctahedronPolygon::updateVertexArray()':
+[build] /workspaces/Stellarium-stellarium/src/core/OctahedronPolygon.cpp:489:58: warning: cast between incompatible function types from 'void (*)(GLenum)' {aka 'void (*)(unsigned int)'} to 'GLvoid (*)()' {aka 'void (*)()'} [-Wcast-function-type]
+[build]   489 |         gluesTessCallback(tess, GLUES_TESS_BEGIN,        reinterpret_cast<GLvoid(*)()> (&checkBeginTrianglesCallback));
+[build]       |                                                          ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[build] /workspaces/Stellarium-stellarium/src/core/OctahedronPolygon.cpp:491:58: warning: cast between incompatible function types from 'void (*)(Vec3d*, OctTessTrianglesCallbackData*)' {aka 'void (*)(Vector3<double>*, OctTessTrianglesCallbackData*)'} to 'GLvoid (*)()' {aka 'void (*)()'} [-Wcast-function-type]
+[build]   491 |         gluesTessCallback(tess, GLUES_TESS_VERTEX_DATA,  reinterpret_cast<GLvoid(*)()> (&vertexTrianglesCallback));
+[build]       |                                                          ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[build] /workspaces/Stellarium-stellarium/src/core/OctahedronPolygon.cpp:492:58: warning: cast between incompatible function types from 'void (*)(GLboolean)' {aka 'void (*)(unsigned char)'} to 'GLvoid (*)()' {aka 'void (*)()'} [-Wcast-function-type]
+[build]   492 |         gluesTessCallback(tess, GLUES_TESS_EDGE_FLAG,    reinterpret_cast<GLvoid(*)()> (&noOpCallback));
+[build]       |                                                          ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[build] /workspaces/Stellarium-stellarium/src/core/OctahedronPolygon.cpp:493:58: warning: cast between incompatible function types from 'void (*)(GLenum)' {aka 'void (*)(unsigned int)'} to 'GLvoid (*)()' {aka 'void (*)()'} [-Wcast-function-type]
+[build]   493 |         gluesTessCallback(tess, GLUES_TESS_ERROR,        reinterpret_cast<GLvoid(*)()> (&errorCallback));
+[build]       |                                                          ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[build] /workspaces/Stellarium-stellarium/src/core/OctahedronPolygon.cpp:494:58: warning: cast between incompatible function types from 'void (*)(double*, Vec3d**, GLfloat*, Vec3d**, OctTessTrianglesCallbackData*)' {aka 'void (*)(double*, Vector3<double>**, float*, Vector3<double>**, OctTessTrianglesCallbackData*)'} to 'GLvoid (*)()' {aka 'void (*)()'} [-Wcast-function-type]
+[build]   494 |         gluesTessCallback(tess, GLUES_TESS_COMBINE_DATA, reinterpret_cast<GLvoid(*)()> (&combineTrianglesCallback));
+[build]       |                                                          ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[build] /workspaces/Stellarium-stellarium/src/core/OctahedronPolygon.cpp: In member function 'void OctahedronPolygon::tesselate(TessWindingRule)':
+[build] /workspaces/Stellarium-stellarium/src/core/OctahedronPolygon.cpp:689:51: warning: cast between incompatible function types from 'void (*)(GLenum)' {aka 'void (*)(unsigned int)'} to 'GLvoid (*)()' {aka 'void (*)()'} [-Wcast-function-type]
+[build]   689 |         gluesTessCallback(tess, GLUES_TESS_BEGIN, reinterpret_cast<GLvoid(*)()> (&checkBeginLineLoopCallback));
+[build]       |                                                   ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[build] /workspaces/Stellarium-stellarium/src/core/OctahedronPolygon.cpp:691:58: warning: cast between incompatible function types from 'void (*)(OctTessLineLoopCallbackData*)' to 'GLvoid (*)()' {aka 'void (*)()'} [-Wcast-function-type]
+[build]   691 |         gluesTessCallback(tess, GLUES_TESS_END_DATA,     reinterpret_cast<GLvoid(*)()> (&endLineLoopCallback));
+[build]       |                                                          ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[build] /workspaces/Stellarium-stellarium/src/core/OctahedronPolygon.cpp:692:58: warning: cast between incompatible function types from 'void (*)(EdgeVertex*, OctTessLineLoopCallbackData*)' to 'GLvoid (*)()' {aka 'void (*)()'} [-Wcast-function-type]
+[build]   692 |         gluesTessCallback(tess, GLUES_TESS_VERTEX_DATA,  reinterpret_cast<GLvoid(*)()> (&vertexLineLoopCallback));
+[build]       |                                                          ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[build] /workspaces/Stellarium-stellarium/src/core/OctahedronPolygon.cpp:693:58: warning: cast between incompatible function types from 'void (*)(GLenum)' {aka 'void (*)(unsigned int)'} to 'GLvoid (*)()' {aka 'void (*)()'} [-Wcast-function-type]
+[build]   693 |         gluesTessCallback(tess, GLUES_TESS_ERROR,        reinterpret_cast<GLvoid(*)()> (&errorCallback));
+[build]       |                                                          ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[build] /workspaces/Stellarium-stellarium/src/core/OctahedronPolygon.cpp:694:58: warning: cast between incompatible function types from 'void (*)(double*, EdgeVertex**, GLfloat*, EdgeVertex**, OctTessLineLoopCallbackData*)' {aka 'void (*)(double*, EdgeVertex**, float*, EdgeVertex**, OctTessLineLoopCallbackData*)'} to 'GLvoid (*)()' {aka 'void (*)()'} [-Wcast-function-type]
+[build]   694 |         gluesTessCallback(tess, GLUES_TESS_COMBINE_DATA, reinterpret_cast<GLvoid(*)()> (&combineLineLoopCallback));
+[build]       |                                                          ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[build] [1135/1243  89% :: 90.875] Building CXX object src/CMakeFiles/stelMain.dir/core/StelJsonParser.cpp.o
+[build] [1136/1243  90% :: 90.941] Building CXX object src/CMakeFiles/stelMain.dir/core/VecMath.cpp.o
+[build] [1137/1243  90% :: 91.008] Building CXX object src/CMakeFiles/stelMain.dir/core/StelSkyCultureMgr.cpp.o
+[build] [1138/1243  90% :: 91.009] Building CXX object src/CMakeFiles/stelMain.dir/core/StelTranslator.cpp.o
+[build] [1139/1243  90% :: 91.062] Building CXX object src/CMakeFiles/stelMain.dir/core/StelSphereGeometry.cpp.o
+[build] [1140/1243  90% :: 91.066] Building CXX object src/CMakeFiles/stelMain.dir/core/StelCore.cpp.o
+[build] [1141/1243  90% :: 91.312] Building CXX object src/CMakeFiles/stelMain.dir/core/StelUtils.cpp.o
+[build] /workspaces/Stellarium-stellarium/src/core/StelUtils.cpp: In function 'QString StelUtils::wrapText(const QString&, int)':
+[build] /workspaces/Stellarium-stellarium/src/core/StelUtils.cpp:1380:31: warning: unused variable 'RLM32' [-Wunused-variable]
+[build]  1380 |         static const uint32_t RLM32=U'\U0000200f'; // Right-Left-marker (starting Arab/Hebrew)
+[build]       |                               ^~~~~
+[build] /workspaces/Stellarium-stellarium/src/core/StelUtils.cpp:1381:31: warning: unused variable 'LRM32' [-Wunused-variable]
+[build]  1381 |         static const uint32_t LRM32=U'\U0000200e'; // Left-right-marker
+[build]       |                               ^~~~~
+[build] /workspaces/Stellarium-stellarium/src/core/StelUtils.cpp:1382:31: warning: unused variable 'ZWS32' [-Wunused-variable]
+[build]  1382 |         static const uint32_t ZWS32=U'\U0000200b'; // Zero-width space
+[build]       |                               ^~~~~
+[build] [1142/1243  90% :: 91.511] Building CXX object src/CMakeFiles/stelMain.dir/core/StelSphericalIndex.cpp.o
+[build] [1143/1243  90% :: 92.107] Building CXX object src/CMakeFiles/stelMain.dir/core/StelVertexArray.cpp.o
+[build] [1144/1243  90% :: 92.182] Building CXX object src/CMakeFiles/stelMain.dir/core/StelApp.cpp.o
+[build] /workspaces/Stellarium-stellarium/src/core/StelApp.cpp: In member function 'void StelApp::handleClick(QMouseEvent*)':
+[build] /workspaces/Stellarium-stellarium/src/core/StelApp.cpp:1163:187: warning: 'QMouseEvent::QMouseEvent(QEvent::Type, const QPointF&, Qt::MouseButton, Qt::MouseButtons, Qt::KeyboardModifiers, const QPointingDevice*)' is deprecated: Use another constructor [-Wdeprecated-declarations]
+[build]  1163 |         QMouseEvent event(inputEvent->type(), QPoint(qRound(x*devicePixelsPerPixel), qRound(y*devicePixelsPerPixel)), inputEvent->button(), inputEvent->buttons(), inputEvent->modifiers());
+[build]       |                                                                                                                                                                                           ^
+[build] In file included from /usr/include/aarch64-linux-gnu/qt6/QtWidgets/qgraphicslayoutitem.h:10,
+[build]                  from /usr/include/aarch64-linux-gnu/qt6/QtWidgets/qgraphicswidget.h:12,
+[build]                  from /usr/include/aarch64-linux-gnu/qt6/QtWidgets/qgraphicsproxywidget.h:8,
+[build]                  from /usr/include/aarch64-linux-gnu/qt6/QtWidgets/QGraphicsProxyWidget:1,
+[build]                  from /workspaces/Stellarium-stellarium/src/gui/StelDialog.hpp:24,
+[build]                  from /workspaces/Stellarium-stellarium/src/stelMain_pch.hpp:57,
+[build]                  from /workspaces/Stellarium-stellarium/build/src/CMakeFiles/stelMain.dir/cmake_pch.hxx:5,
+[build]                  from <command-line>:
+[build] /usr/include/aarch64-linux-gnu/qt6/QtGui/qevent.h:193:5: note: declared here
+[build]   193 |     QMouseEvent(Type type, const QPointF &localPos, Qt::MouseButton button,
+[build]       |     ^~~~~~~~~~~
+[build] [1145/1243  90% :: 92.236] Building CXX object src/CMakeFiles/stelMain.dir/core/StelGuiBase.cpp.o
+[build] [1146/1243  90% :: 92.286] Building CXX object src/CMakeFiles/stelMain.dir/core/SimbadSearcher.cpp.o
+[build] [1147/1243  90% :: 92.366] Building CXX object src/CMakeFiles/stelMain.dir/core/StelToastGrid.cpp.o
+[build] [1148/1243  90% :: 92.378] Building CXX object src/CMakeFiles/stelMain.dir/core/RefractionExtinction.cpp.o
+[build] [1149/1243  91% :: 92.550] Building CXX object src/CMakeFiles/stelMain.dir/core/TrailGroup.cpp.o
+[build] [1150/1243  91% :: 92.935] Building CXX object src/CMakeFiles/stelMain.dir/core/StelViewportEffect.cpp.o
+[build] [1151/1243  91% :: 92.971] Building CXX object src/CMakeFiles/stelMain.dir/core/GeomMath.cpp.o
+[build] [1152/1243  91% :: 93.294] Building CXX object src/CMakeFiles/stelMain.dir/core/StelActionMgr.cpp.o
+[build] [1153/1243  91% :: 93.385] Building CXX object src/CMakeFiles/stelMain.dir/core/StelOpenGLArray.cpp.o
+[build] [1154/1243  91% :: 93.428] Building CXX object src/CMakeFiles/stelMain.dir/core/StelTexture.cpp.o
+[build] [1155/1243  91% :: 93.510] Building CXX object src/CMakeFiles/stelMain.dir/core/StelHealpix.cpp.o
+[build] [1156/1243  91% :: 93.526] Building CXX object src/CMakeFiles/stelMain.dir/core/planetsephems/de430.cpp.o
+[build] [1157/1243  91% :: 93.593] Building CXX object src/CMakeFiles/stelMain.dir/core/StelPropertyMgr.cpp.o
+[build] [1158/1243  91% :: 93.655] Building CXX object src/CMakeFiles/stelMain.dir/core/planetsephems/EphemWrapper.cpp.o
+[build] [1159/1243  91% :: 94.058] Building CXX object src/CMakeFiles/stelMain.dir/core/planetsephems/jpleph.cpp.o
+[build] [1160/1243  91% :: 94.106] Building CXX object src/CMakeFiles/stelMain.dir/core/planetsephems/de431.cpp.o
+[build] [1161/1243  92% :: 94.124] Building CXX object src/CMakeFiles/stelMain.dir/core/TextureAverageComputer.cpp.o
+[build] [1162/1243  92% :: 94.133] Building CXX object src/CMakeFiles/stelMain.dir/core/planetsephems/de440.cpp.o
+[build] [1163/1243  92% :: 94.749] Building CXX object src/CMakeFiles/stelMain.dir/core/planetsephems/de441.cpp.o
+[build] [1164/1243  92% :: 94.758] Building CXX object src/CMakeFiles/stelMain.dir/core/StelOBJ.cpp.o
+[build] [1165/1243  92% :: 94.974] Building CXX object src/CMakeFiles/stelMain.dir/core/modules/CoordObject.cpp.o
+[build] [1166/1243  92% :: 95.080] Building CXX object src/CMakeFiles/stelMain.dir/core/StelHips.cpp.o
+[build] [1167/1243  92% :: 95.374] Building CXX object src/CMakeFiles/stelMain.dir/core/modules/CustomObject.cpp.o
+[build] [1168/1243  92% :: 95.432] Building CXX object src/CMakeFiles/stelMain.dir/core/modules/AsterismMgr.cpp.o
+[build] [1169/1243  92% :: 95.784] Building CXX object src/CMakeFiles/stelMain.dir/core/modules/AtmosphereShowMySky.cpp.o
+[build] [1170/1243  92% :: 95.798] Building CXX object src/CMakeFiles/stelMain.dir/core/StelToast.cpp.o
+[build] [1171/1243  92% :: 95.964] Building CXX object src/CMakeFiles/stelMain.dir/core/modules/Asterism.cpp.o
+[build] [1172/1243  92% :: 96.036] Building CXX object src/CMakeFiles/stelMain.dir/core/modules/Constellation.cpp.o
+[build] [1173/1243  93% :: 96.109] Building CXX object src/CMakeFiles/stelMain.dir/core/modules/CustomObjectMgr.cpp.o
+[build] [1174/1243  93% :: 96.397] Building CXX object src/CMakeFiles/stelMain.dir/core/modules/ConstellationMgr.cpp.o
+[build] [1175/1243  93% :: 96.531] Building CXX object src/CMakeFiles/stelMain.dir/core/modules/HighlightMgr.cpp.o
+[build] [1176/1243  93% :: 96.696] Building CXX object src/CMakeFiles/stelMain.dir/core/modules/AtmospherePreetham.cpp.o
+[build] [1177/1243  93% :: 96.716] Building CXX object src/CMakeFiles/stelMain.dir/core/modules/LabelMgr.cpp.o
+[build] [1178/1243  93% :: 97.310] Building CXX object src/CMakeFiles/stelMain.dir/core/modules/HipsMgr.cpp.o
+[build] [1179/1243  93% :: 97.540] Building CXX object src/CMakeFiles/stelMain.dir/core/modules/SporadicMeteor.cpp.o
+[build] [1180/1243  93% :: 97.627] Building CXX object src/CMakeFiles/stelMain.dir/core/modules/Meteor.cpp.o
+[build] [1181/1243  93% :: 97.689] Building CXX object src/CMakeFiles/stelMain.dir/core/modules/MarkerMgr.cpp.o
+[build] [1182/1243  93% :: 98.060] Building CXX object src/CMakeFiles/stelMain.dir/core/modules/SporadicMeteorMgr.cpp.o
+[build] [1183/1243  93% :: 98.107] Building CXX object src/CMakeFiles/stelMain.dir/core/modules/GridLinesMgr.cpp.o
+[build] [1184/1243  93% :: 98.376] Building CXX object src/CMakeFiles/stelMain.dir/core/modules/Orbit.cpp.o
+[build] [1185/1243  93% :: 98.817] Building CXX object src/CMakeFiles/stelMain.dir/core/modules/MilkyWay.cpp.o
+[build] [1186/1243  94% :: 98.850] Building CXX object src/CMakeFiles/stelMain.dir/core/modules/Landscape.cpp.o
+[build] [1187/1243  94% :: 98.884] Building CXX object src/CMakeFiles/stelMain.dir/core/modules/Skybright.cpp.o
+[build] [1188/1243  94% :: 98.985] Building CXX object src/CMakeFiles/stelMain.dir/core/modules/RotationElements.cpp.o
+[build] [1189/1243  94% :: 99.276] Building CXX object src/CMakeFiles/stelMain.dir/core/modules/Skylight.cpp.o
+[build] [1190/1243  94% :: 99.378] Building CXX object src/CMakeFiles/stelMain.dir/core/modules/LandscapeMgr.cpp.o
+[build] [1191/1243  94% :: 99.464] Building CXX object src/CMakeFiles/stelMain.dir/core/modules/MinorPlanet.cpp.o
+[build] [1192/1243  94% :: 99.807] Building CXX object src/CMakeFiles/stelMain.dir/core/modules/Nebula.cpp.o
+[build] [1193/1243  94% :: 100.281] Building CXX object src/CMakeFiles/stelMain.dir/core/modules/Comet.cpp.o
+[build] [1194/1243  94% :: 100.649] Building CXX object src/CMakeFiles/stelMain.dir/core/modules/NomenclatureMgr.cpp.o
+[build] [1195/1243  94% :: 100.669] Building CXX object src/CMakeFiles/stelMain.dir/core/modules/Star.cpp.o
+[build] [1196/1243  94% :: 100.689] Building CXX object src/CMakeFiles/stelMain.dir/core/modules/NomenclatureItem.cpp.o
+[build] [1197/1243  94% :: 100.898] Building CXX object src/CMakeFiles/stelMain.dir/core/modules/ToastMgr.cpp.o
+[build] [1198/1243  95% :: 101.103] Building CXX object src/CMakeFiles/stelMain.dir/core/modules/SpecialMarkersMgr.cpp.o
+[build] [1199/1243  95% :: 101.219] Building CXX object src/CMakeFiles/stelMain.dir/core/modules/SpecificTimeMgr.cpp.o
+[build] [1200/1243  95% :: 101.387] Building CXX object src/CMakeFiles/stelMain.dir/core/modules/NebulaMgr.cpp.o
+[build] [1201/1243  95% :: 101.501] Building CXX object src/CMakeFiles/stelMain.dir/core/modules/ZoneArray.cpp.o
+[build] [1202/1243  95% :: 101.533] Building CXX object src/CMakeFiles/stelMain.dir/core/modules/StarWrapper.cpp.o
+[build] [1203/1243  95% :: 101.872] Building CXX object src/CMakeFiles/stelMain.dir/core/modules/ZodiacalLight.cpp.o
+[build] [1204/1243  95% :: 102.108] Building CXX object src/CMakeFiles/stelMain.dir/StelLogger.cpp.o
+[build] [1205/1243  95% :: 102.507] Building CXX object src/CMakeFiles/stelMain.dir/stelMain_autogen/mocs_compilation.cpp.o
+[build] [1206/1243  95% :: 102.676] Building CXX object src/CMakeFiles/stelMain.dir/StelSystemInfo.cpp.o
+[build] [1207/1243  95% :: 102.822] Building CXX object src/CMakeFiles/stelMain.dir/StelSplashScreen.cpp.o
+[build] [1208/1243  95% :: 102.937] Building CXX object src/CMakeFiles/stelMain.dir/CLIProcessor.cpp.o
+[build] [1209/1243  95% :: 103.135] Building CXX object src/CMakeFiles/stelMain.dir/scripting/V3d.cpp.o
+[build] [1210/1243  95% :: 103.422] Building CXX object src/CMakeFiles/stelMain.dir/scripting/StelScriptOutput.cpp.o
+[build] [1211/1243  96% :: 103.539] Building CXX object src/CMakeFiles/stelMain.dir/scripting/StelMainScriptAPIProxy.cpp.o
+[build] [1212/1243  96% :: 103.556] Building CXX object src/CMakeFiles/stelMain.dir/core/modules/StarMgr.cpp.o
+[build] [1213/1243  96% :: 103.955] Building CXX object src/CMakeFiles/stelMain.dir/scripting/ScreenImageMgr.cpp.o
+[build] [1214/1243  96% :: 104.397] Building CXX object src/CMakeFiles/stelMain.dir/gui/ShortcutLineEdit.cpp.o
+[build] [1215/1243  96% :: 104.420] Building CXX object src/CMakeFiles/stelMain.dir/gui/SkyGui.cpp.o
+[build] [1216/1243  96% :: 104.555] Building CXX object src/CMakeFiles/stelMain.dir/core/modules/Planet.cpp.o
+[build] /workspaces/Stellarium-stellarium/src/core/modules/Planet.cpp: In member function 'QPair<double, double> Planet::getLunarEclipseMagnitudes() const':
+[build] /workspaces/Stellarium-stellarium/src/core/modules/Planet.cpp:1555:58: note: parameter passing for argument of type 'std::pair<double, double>' when C++17 is enabled changed to match C++14 in GCC 10.1
+[build]  1555 | QPair<double,double> Planet::getLunarEclipseMagnitudes() const
+[build]       |                                                          ^~~~~
+[build] [1217/1243  96% :: 104.571] Building CXX object src/CMakeFiles/stelMain.dir/StelMainView.cpp.o
+[build] /workspaces/Stellarium-stellarium/src/StelMainView.cpp: In member function 'QMouseEvent StelRootItem::convertMouseEvent(QGraphicsSceneMouseEvent*) const':
+[build] /workspaces/Stellarium-stellarium/src/StelMainView.cpp:577:93: warning: 'QMouseEvent::QMouseEvent(QEvent::Type, const QPointF&, Qt::MouseButton, Qt::MouseButtons, Qt::KeyboardModifiers, const QPointingDevice*)' is deprecated: Use another constructor [-Wdeprecated-declarations]
+[build]   577 |                 return QMouseEvent(t,pos,event->button(),event->buttons(),event->modifiers());
+[build]       |                                                                                             ^
+[build] In file included from /usr/include/aarch64-linux-gnu/qt6/QtWidgets/qgraphicslayoutitem.h:10,
+[build]                  from /usr/include/aarch64-linux-gnu/qt6/QtWidgets/qgraphicswidget.h:12,
+[build]                  from /usr/include/aarch64-linux-gnu/qt6/QtWidgets/qgraphicsproxywidget.h:8,
+[build]                  from /usr/include/aarch64-linux-gnu/qt6/QtWidgets/QGraphicsProxyWidget:1,
+[build]                  from /workspaces/Stellarium-stellarium/src/gui/StelDialog.hpp:24,
+[build]                  from /workspaces/Stellarium-stellarium/src/stelMain_pch.hpp:57,
+[build]                  from /workspaces/Stellarium-stellarium/build/src/CMakeFiles/stelMain.dir/cmake_pch.hxx:5,
+[build]                  from <command-line>:
+[build] /usr/include/aarch64-linux-gnu/qt6/QtGui/qevent.h:193:5: note: declared here
+[build]   193 |     QMouseEvent(Type type, const QPointF &localPos, Qt::MouseButton button,
+[build]       |     ^~~~~~~~~~~
+[build] [1218/1243  96% :: 104.614] Building CXX object src/CMakeFiles/stelMain.dir/scripting/StelScriptMgr.cpp.o
+[build] [1219/1243  96% :: 105.021] Building CXX object src/CMakeFiles/stelMain.dir/gui/MapWidget.cpp.o
+[build] [1220/1243  96% :: 105.362] Building CXX object src/CMakeFiles/stelMain.dir/gui/StelGuiItems.cpp.o
+[build] [1221/1243  96% :: 105.385] Building CXX object src/CMakeFiles/stelMain.dir/gui/AngleSpinBox.cpp.o
+[build] [1222/1243  96% :: 105.388] Building CXX object src/CMakeFiles/stelMain.dir/gui/Dialog.cpp.o
+[build] [1223/1243  97% :: 105.453] Building CXX object src/CMakeFiles/stelMain.dir/scripting/StelMainScriptAPI.cpp.o
+[build] /workspaces/Stellarium-stellarium/src/scripting/StelMainScriptAPI.cpp: In static member function 'static int StelMainScriptAPI::getBortleScaleIndex()':
+[build] /workspaces/Stellarium-stellarium/src/scripting/StelMainScriptAPI.cpp:1495:85: warning: 'int StelSkyDrawer::getBortleScaleIndex() const' is deprecated [-Wdeprecated-declarations]
+[build]  1495 |         return StelApp::getInstance().getCore()->getSkyDrawer()->getBortleScaleIndex();
+[build]       |                ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~
+[build] In file included from /workspaces/Stellarium-stellarium/src/core/StelCore.hpp:27,
+[build]                  from /workspaces/Stellarium-stellarium/src/stelMain_pch.hpp:38,
+[build]                  from /workspaces/Stellarium-stellarium/build/src/CMakeFiles/stelMain.dir/cmake_pch.hxx:5,
+[build]                  from <command-line>:
+[build] /workspaces/Stellarium-stellarium/src/core/StelSkyDrawer.hpp:216:31: note: declared here
+[build]   216 |         Q_DECL_DEPRECATED int getBortleScaleIndex() const;
+[build]       |                               ^~~~~~~~~~~~~~~~~~~
+[build] [1224/1243  97% :: 105.711] Building CXX object src/CMakeFiles/stelMain.dir/gui/ShortcutsDialog.cpp.o
+[build] [1225/1243  97% :: 106.124] Building CXX object src/CMakeFiles/stelMain.dir/gui/LogarithmicSpinBox.cpp.o
+[build] [1226/1243  97% :: 106.337] Building CXX object src/CMakeFiles/stelMain.dir/gui/LightPollutionWidget.cpp.o
+[build] [1227/1243  97% :: 106.487] Building CXX object src/CMakeFiles/stelMain.dir/gui/HelpDialog.cpp.o
+[build] [1228/1243  97% :: 106.653] Building CXX object src/CMakeFiles/stelMain.dir/gui/StelGui.cpp.o
+[build] [1229/1243  97% :: 106.710] Building CXX object src/CMakeFiles/stelMain.dir/gui/DateTimeDialog.cpp.o
+[build] [1230/1243  97% :: 107.163] Building CXX object src/CMakeFiles/stelMain.dir/gui/LocationDialog.cpp.o
+[build] [1231/1243  97% :: 107.215] Building CXX object src/CMakeFiles/stelMain.dir/gui/ConfigureDSOColorsDialog.cpp.o
+[build] [1232/1243  97% :: 107.248] Building CXX object src/CMakeFiles/stelMain.dir/core/modules/SolarSystem.cpp.o
+[build] [1233/1243  97% :: 107.314] Building CXX object src/CMakeFiles/stelMain.dir/gui/ConfigureOrbitColorsDialog.cpp.o
+[build] [1234/1243  97% :: 107.453] Building CXX object src/CMakeFiles/stelMain.dir/gui/AtmosphereDialog.cpp.o
+[build] [1235/1243  97% :: 107.546] Building CXX object src/CMakeFiles/stelMain.dir/gui/ConfigureScreenshotsDialog.cpp.o
+[build] [1236/1243  98% :: 107.802] Building CXX object src/CMakeFiles/stelMain.dir/gui/GreatRedSpotDialog.cpp.o
+[build] [1237/1243  98% :: 107.813] Building CXX object src/CMakeFiles/stelMain.dir/gui/CustomDeltaTEquationDialog.cpp.o
+[build] [1238/1243  98% :: 108.155] Building CXX object src/CMakeFiles/stelMain.dir/gui/AstroCalcExtraEphemerisDialog.cpp.o
+[build] [1238/1243  98% :: 108.305] Building CXX object src/CMakeFiles/stelMain.dir/gui/StelCloseButton.cpp.o
+[build] [1238/1243  98% :: 108.384] Building CXX object src/CMakeFiles/stelMain.dir/gui/AstroCalcCustomStepsDialog.cpp.o
+[build] [1238/1243  98% :: 108.449] Building CXX object src/CMakeFiles/stelMain.dir/gui/AstroCalcChart.cpp.o
+[build] /workspaces/Stellarium-stellarium/src/gui/AstroCalcChart.cpp: In member function 'QPair<double, double> AstroCalcChart::findYRange(Series) const':
+[build] /workspaces/Stellarium-stellarium/src/gui/AstroCalcChart.cpp:329:71: note: parameter passing for argument of type 'std::pair<double, double>' when C++17 is enabled changed to match C++14 in GCC 10.1
+[build]   329 | QPair<double, double> AstroCalcChart::findYRange(const Series series) const
+[build]       |                                                                       ^~~~~
+[build] [1238/1243  98% :: 108.711] Building CXX object src/CMakeFiles/stelMain.dir/gui/AstroCalcAlmanacWidget.cpp.o
+[build] [1238/1243  98% :: 108.715] Building CXX object src/CMakeFiles/stelMain.dir/gui/StelDialogSeparate.cpp.o
+[build] [1238/1243  98% :: 108.722] Building CXX object src/CMakeFiles/stelMain.dir/gui/ColorButton.cpp.o
+[build] [1238/1243  98% :: 108.745] Building CXX object src/CMakeFiles/stelMain.dir/gui/TonemappingDialog.cpp.o
+[build] [1238/1243  98% :: 108.951] Building CXX object src/CMakeFiles/stelMain.dir/gui/SkylightDialog.cpp.o
+[build] [1238/1243  98% :: 108.979] Building CXX object src/CMakeFiles/stelMain.dir/gui/AddRemoveLandscapesDialog.cpp.o
+[build] [1238/1243  99% :: 109.050] Building CXX object src/CMakeFiles/stelMain.dir/gui/StelDialog.cpp.o
+[build] [1238/1243  99% :: 109.321] Building CXX object src/CMakeFiles/stelMain.dir/gui/SearchDialog.cpp.o
+[build] In file included from /usr/include/aarch64-linux-gnu/qt6/QtCore/qarraydata.h:8,
+[build]                  from /usr/include/aarch64-linux-gnu/qt6/QtCore/qbytearray.h:10,
+[build]                  from /usr/include/aarch64-linux-gnu/qt6/QtCore/qstringview.h:8,
+[build]                  from /usr/include/aarch64-linux-gnu/qt6/QtCore/qchar.h:651,
+[build]                  from /usr/include/aarch64-linux-gnu/qt6/QtCore/qstring.h:14,
+[build]                  from /usr/include/aarch64-linux-gnu/qt6/QtCore/qcoreapplication.h:8,
+[build]                  from /usr/include/aarch64-linux-gnu/qt6/QtGui/qguiapplication.h:8,
+[build]                  from /workspaces/Stellarium-stellarium/src/core/StelApp.hpp:25,
+[build]                  from /workspaces/Stellarium-stellarium/src/stelMain_pch.hpp:34,
+[build]                  from /workspaces/Stellarium-stellarium/build/src/CMakeFiles/stelMain.dir/cmake_pch.hxx:5,
+[build]                  from <command-line>:
+[build] /usr/include/aarch64-linux-gnu/qt6/QtCore/qpair.h: In instantiation of 'constexpr decltype(auto) qMakePair(T1&&, T2&&) [with T1 = double; T2 = double]':
+[build] /workspaces/Stellarium-stellarium/src/gui/SearchDialog.cpp:352:67:   required from here
+[build]   352 |         QPair<double, double> minMaxLimits = usePolarDistance ? qMakePair(0., 180.) : qMakePair(-90., 90.);
+[build]       |                                                                 ~~~~~~~~~^~~~~~~~~~
+[build] /usr/include/aarch64-linux-gnu/qt6/QtCore/qpair.h:22:77: note: parameter passing for argument of type 'std::pair<double, double>' when C++17 is enabled changed to match C++14 in GCC 10.1
+[build]    22 |     return std::make_pair(std::forward<T1>(value1), std::forward<T2>(value2));
+[build]       |                                                                             ^
+[build] [1238/1243  99% :: 109.458] Building CXX object src/CMakeFiles/stelMain.dir/gui/ViewDialog.cpp.o
+[build] [1238/1243  99% :: 109.798] Building CXX object src/CMakeFiles/stelMain.dir/gui/ConfigurationDialog.cpp.o
+[build] [1238/1243  99% :: 109.872] Building CXX object src/CMakeFiles/stelMain.dir/gui/ScriptConsole.cpp.o
+[build] [1238/1243  99% :: 110.118] Building CXX object src/CMakeFiles/stelMain.dir/gui/ObsListDialog.cpp.o
+[build] [1238/1243  99% :: 110.937] Building CXX object src/CMakeFiles/stelMain.dir/gui/StelScriptSyntaxHighlighter.cpp.o
+[build] [1238/1243  99% :: 113.931] Building CXX object src/CMakeFiles/stelMain.dir/gui/AstroCalcDialog.cpp.o
+[build] /workspaces/Stellarium-stellarium/src/gui/AstroCalcDialog.cpp: In member function 'void AstroCalcDialog::drawAziVsTimeDiagram()':
+[build] /workspaces/Stellarium-stellarium/src/gui/AstroCalcDialog.cpp:837:102: note: parameter passing for argument of type 'std::pair<double, double>' when C++17 is enabled changed to match C++14 in GCC 10.1
+[build]   837 |                 const QPair<double, double> yRange=azVsTimeChart->findYRange(AstroCalcChart::AzVsTime);
+[build]       |                                                                                                      ^
+[build] [1239/1243  99% :: 118.971] Linking CXX static library src/libstelMain.a
+[build] [1240/1243  99% :: 118.987] Automatic MOC and UIC for target stellarium
+[build] [1242/1243  99% :: 119.000] Building CXX object src/CMakeFiles/stellarium.dir/stellarium_autogen/mocs_compilation.cpp.o
+[build] [1242/1243  99% :: 121.180] Building CXX object src/CMakeFiles/stellarium.dir/main.cpp.o
+[build] [1243/1243 100% :: 127.124] Linking CXX executable src/stellarium
+[driver] Build completed: 00:02:07.144
+[build] Build finished with exit code 0
