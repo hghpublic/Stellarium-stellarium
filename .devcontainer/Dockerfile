@@ -107,4 +107,4 @@ RUN <<EOF
 } >> ~/.zshrc
 EOF
 
-ENV WORKSPACE_ROOT="/workspaces/boostorg-boost-playground"
+ENV WORKSPACE_ROOT="/workspaces/Stellarium-stellarium"
