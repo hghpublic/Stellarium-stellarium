@@ -1,0 +1,17 @@
+= Stellarium
+:toc:
+:sectnums:
+ifndef::env-github[:icons: font]
+:note-caption: :paperclip:
+:important-caption: :exclamation:
+:warning-caption: :warning:
+
+== Stellarium
+
+Stellarium is a free open source planetarium for your computer. It shows a realistic sky in 3D, just like what you see with the naked eye, binoculars or a telescope.
+
+https://stellarium.org/
+
+https://github.com/Stellarium/stellarium
+
+https://github.com/hghpublic/Stellarium-stellarium
